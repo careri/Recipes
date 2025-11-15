@@ -1,0 +1,47 @@
+{
+    "title": "Kyckling i ugn med Sambal Oelek",
+    "steps": [
+        "Från recepten.se",
+        "Lägg de frysta kycklingfiléerna i en ugnsform där alla filéer får plats att ligga bredvid varandra.",
+        "Blanda crème fraiche, soya, sambal oelek och grädde i en bunke och rör om. Häll detta över kycklingfiléerna.",
+        "Ställ in i mitten av ugnen i 175 grader i 1,5 timmar.",
+        "Serverade detta med rödbetor och sallad."
+    ],
+    "ingredients": [
+        {
+            "amount": "3",
+            "unit": "st",
+            "name": "kycklingfile"
+        },
+        {
+            "amount": "2",
+            "unit": "dl",
+            "name": "creme fraiche"
+        },
+        {
+            "amount": "3",
+            "unit": "dl",
+            "name": "grädde, visp"
+        },
+        {
+            "amount": "2,5",
+            "unit": "tsk",
+            "name": "sambal oelek"
+        },
+        {
+            "amount": "1",
+            "unit": "msk",
+            "name": "soya sauce"
+        },
+        {
+            "amount": "1",
+            "unit": "nypa",
+            "name": "rosmarin"
+        }
+    ],
+    "servings": {
+        "amount": "4",
+        "unit": "port"
+    },
+    "attributes": "Kyckling, Huvudrätt, Budget, Lättlagat"
+}

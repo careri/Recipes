@@ -1,0 +1,62 @@
+{
+    "title": "Fisk med Balsamdränkta Grönsaker",
+    "steps": [
+        "Salta och peppra fisken. Stek den i ungefär hälften av oljan i en stekpanna 2-4 minuter per sida beroende på hur tjock fisken är. Koka grönsakerna (t ex paprika, sockerärter, lök, selleri, kål",
+        ") i saltat vatten ca 2 minuter (inte för länge så de blir svampiga). Häll av vattnet.",
+        "Blanda resten av oljan och balsamvinäger och häll över grönsakerna och blanda runt.",
+        "Rör ihop getost, kesella och rucola. Servera fisken med oströran, grönsaker och potatis/quinoa/rostade grönsaker/ris.",
+        "Kcal exl. potatis/ris: 270-300 per portion (hänger på hur mycket olja man använder bl a, följer man repetet exakt blir det 277kcal)"
+    ],
+    "ingredients": [
+        {
+            "amount": "300",
+            "unit": "g",
+            "name": "hokifilé"
+        },
+        {
+            "amount": "1/2",
+            "unit": "tsk",
+            "name": "salt"
+        },
+        {
+            "amount": "1/2",
+            "unit": "krm",
+            "name": "svartpeppar, grovm."
+        },
+        {
+            "amount": "1",
+            "unit": "msk",
+            "name": "rapsolja"
+        },
+        {
+            "amount": "5",
+            "unit": "dl",
+            "name": "grönsaker"
+        },
+        {
+            "amount": "1",
+            "unit": "msk",
+            "name": "balsamvinäger"
+        },
+        {
+            "amount": "2",
+            "unit": "msk",
+            "name": "getost"
+        },
+        {
+            "amount": "1",
+            "unit": "msk",
+            "name": "kesella"
+        },
+        {
+            "amount": "1",
+            "unit": "msk",
+            "name": "ruccolasallad"
+        }
+    ],
+    "servings": {
+        "amount": "2",
+        "unit": "port"
+    },
+    "attributes": "Fisk, Huvudrätt, Lättlagat"
+}

@@ -1,0 +1,86 @@
+{
+    "title": "Citronlinguine med Pilgrimsmusslor",
+    "steps": [
+        "Från www.ica.se",
+        "1. Koka pastan enligt instruktioner på paketet.",
+        "2. Skala och finhacka lök och vitlök. Skölj, kärna ur och skiva chilin. Ansa sparrisen och skiva den i mindre bitar.",
+        "3. Hetta upp en panna och fräs lök och chili några minuter i 1 msk smör. Lägg i sparris och stek med i någon minut.",
+        "4. Riv citronskalet och spara till senare. Pressa citronjuicen och häll i pannan. Tillsätt vinet och grädden och sjud några minuter. Smaka av med 1/2 tsk salt och 1 krm peppar.",
+        "5. Stek pilgrimsmusslorna i 1 msk smör i en annan stekpanna, smaka av med 1 tsk salt och 2 krm peppar.",
+        "6. Blanda pastan med såsen, citronskal och persilja. Lägg upp på tallrikar och toppa med musslorna.",
+        "Tips!",
+        "Stek pilgrimsmusslorna hastigt på hög värme, då blir de som allra godast."
+    ],
+    "ingredients": [
+        {
+            "amount": "10",
+            "unit": "st",
+            "name": "pilgrimsmusslor"
+        },
+        {
+            "amount": "1",
+            "unit": "st",
+            "name": "linguinepasta"
+        },
+        {
+            "amount": "1/2",
+            "unit": "st",
+            "name": "lök, gul"
+        },
+        {
+            "amount": "1",
+            "unit": "klyfta",
+            "name": "vitlök"
+        },
+        {
+            "amount": "1/2",
+            "unit": "st",
+            "name": "chili, röd"
+        },
+        {
+            "amount": "1",
+            "unit": "knippe",
+            "name": "sparris"
+        },
+        {
+            "amount": "1/2",
+            "unit": "st",
+            "name": "citron"
+        },
+        {
+            "amount": "1/2",
+            "unit": "dl",
+            "name": "vitt vin"
+        },
+        {
+            "amount": "1",
+            "unit": "dl",
+            "name": "vispgrädde"
+        },
+        {
+            "amount": "1/2",
+            "unit": "dl",
+            "name": "persilja"
+        },
+        {
+            "amount": "1",
+            "unit": "klick",
+            "name": "smör"
+        },
+        {
+            "amount": "1",
+            "unit": "nypa",
+            "name": "salt"
+        },
+        {
+            "amount": "1",
+            "unit": "nypa",
+            "name": "svartpeppar, grovm."
+        }
+    ],
+    "servings": {
+        "amount": "2",
+        "unit": "port"
+    },
+    "attributes": "Fisk, Huvudrätt, Lättlagat, Fest"
+}

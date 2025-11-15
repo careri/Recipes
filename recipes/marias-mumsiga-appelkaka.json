@@ -1,0 +1,61 @@
+{
+    "title": "Marias Mumsiga Äppelkaka",
+    "steps": [
+        "Ugn 175°",
+        "Klyfta oskalade/",
+        "skalade äpplen.",
+        "Förväll några min.",
+        "Lägg i smord ugnsfast form.",
+        "Smält smör i kastrull, blanda i de övriga ingredienserna.",
+        "Bred massan över äppelena.",
+        "Grädda tills ytan blir gyllengul.",
+        "Servera med iskall vispad grädde/glass."
+    ],
+    "ingredients": [
+        {
+            "amount": "5",
+            "unit": "st",
+            "name": "äpple"
+        },
+        {
+            "amount": "125",
+            "unit": "g",
+            "name": "smör"
+        },
+        {
+            "amount": "1,75",
+            "unit": "dl",
+            "name": "havregryn"
+        },
+        {
+            "amount": "1,75",
+            "unit": "dl",
+            "name": "vetemjöl"
+        },
+        {
+            "amount": "1,75",
+            "unit": "dl",
+            "name": "socker"
+        },
+        {
+            "amount": "3",
+            "unit": "msk",
+            "name": "grädde, visp"
+        },
+        {
+            "amount": "3",
+            "unit": "msk",
+            "name": "sirap, ljus"
+        },
+        {
+            "amount": "1/2",
+            "unit": "tsk",
+            "name": "bakpulver"
+        }
+    ],
+    "servings": {
+        "amount": "4",
+        "unit": "port"
+    },
+    "attributes": "Frukt & Bär, Efterrätt"
+}

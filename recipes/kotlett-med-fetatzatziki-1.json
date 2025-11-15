@@ -1,0 +1,90 @@
+{
+    "title": "Kotlett med Fetatzatziki",
+    "steps": [
+        "Riv gurkan grovt.",
+        "Strö på lite salt.",
+        "Krama ur vätskan.",
+        "Blanda gurka, matlagningsyoghurt, smulad fetaost, salt och peppar.",
+        "Stek kotletterna i margarin. Salta och peppra.",
+        "Koka potatisen. Dela den i skivor.",
+        "Blanda potatis, lök, isbergssallad, tomat och oliver.",
+        "Från viktklubb.se"
+    ],
+    "ingredients": [
+        {
+            "amount": "200",
+            "unit": "g",
+            "name": "gurka"
+        },
+        {
+            "amount": "1",
+            "unit": "nypa",
+            "name": "salt"
+        },
+        {
+            "amount": "2",
+            "unit": "dl",
+            "name": "yoghurt"
+        },
+        {
+            "amount": "50",
+            "unit": "g",
+            "name": "fetaost"
+        },
+        {
+            "amount": "1",
+            "unit": "nypa",
+            "name": "salt"
+        },
+        {
+            "amount": "1",
+            "unit": "nypa",
+            "name": "svartpeppar, grovm."
+        },
+        {
+            "amount": "500",
+            "unit": "g",
+            "name": "fläskkotlett"
+        },
+        {
+            "amount": "1",
+            "unit": "msk",
+            "name": "margarin"
+        },
+        {
+            "amount": "Enkel",
+            "unit": "potatissallad",
+            "name": ""
+        },
+        {
+            "amount": "1",
+            "unit": "kg",
+            "name": "potatis"
+        },
+        {
+            "amount": "100",
+            "unit": "g",
+            "name": "lök, röd"
+        },
+        {
+            "amount": "100",
+            "unit": "g",
+            "name": "isbergssallad"
+        },
+        {
+            "amount": "400",
+            "unit": "g",
+            "name": "tomat"
+        },
+        {
+            "amount": "12",
+            "unit": "st",
+            "name": "oliver, svarta"
+        }
+    ],
+    "servings": {
+        "amount": "4",
+        "unit": "port"
+    },
+    "attributes": "Fläskkött, Huvudrätt, Lättlagat"
+}

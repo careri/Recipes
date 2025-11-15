@@ -1,0 +1,48 @@
+{
+    "title": "Tacosås",
+    "steps": [
+        "Hacka lök och chilifrukt. Grön chili brukar inte vara så stark men ta bort kärnorna om så skulle vara. Fräs upp lök och chili med lite olja i en tjockbottnad kastrull. Häll i tomatkross. Använder man hela tomater på burk ska de skäras i bitar. Tillsätt vinäger och socker och låt salsan koka ihop till ganska fast konsistens. Salta och blanda eventuellt i finhackad jalapenopeppar om du vill ha starkare smak. En tesked gav en styrka mellan medium och hot."
+    ],
+    "ingredients": [
+        {
+            "amount": "1/2",
+            "unit": "st",
+            "name": "lök, gul"
+        },
+        {
+            "amount": "1",
+            "unit": "st",
+            "name": "chili, grön"
+        },
+        {
+            "amount": "1",
+            "unit": "burk",
+            "name": "tomater, krossade"
+        },
+        {
+            "amount": "2",
+            "unit": "tsk",
+            "name": "vinäger, vitvin"
+        },
+        {
+            "amount": "1",
+            "unit": "tsk",
+            "name": "strösocker"
+        },
+        {
+            "amount": "1/2",
+            "unit": "tsk",
+            "name": "salt"
+        },
+        {
+            "amount": "2",
+            "unit": "klyftor",
+            "name": "vitlök"
+        }
+    ],
+    "servings": {
+        "amount": "4",
+        "unit": "port"
+    },
+    "attributes": "Grönsaker, Såser & röror, Budget, Lättlagat, Vegetariska, Fest"
+}

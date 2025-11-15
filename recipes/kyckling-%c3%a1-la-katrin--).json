@@ -1,0 +1,103 @@
+{
+    "title": "Kyckling Á la Katrin :-)",
+    "steps": [
+        "OBS! Alla mått på en höft, använde inga sådana när jag gjorde detta...",
+        "Koka upp vatten, matlagningsvin & buljong. Tillsätt efter hand grädde, soya & de torkade kryddorna. Avsluta med att tillsätta sambal och vitlök.",
+        "Lägg kycklingfiléerna i en ugnsfast form. Strö över basilika. Lägg på champinjoner och purjolök.",
+        "Häll över vätskan.",
+        "Låt det stå i ugnen på 175-200 grader i ca 50 min eller tills kycklingen uppnått 72 grader.",
+        "Servera med Cous Cous eller nånting liknande."
+    ],
+    "ingredients": [
+        {
+            "amount": "3",
+            "unit": "st",
+            "name": "kycklingfile"
+        },
+        {
+            "amount": "3",
+            "unit": "dl",
+            "name": "vatten"
+        },
+        {
+            "amount": "1",
+            "unit": "dl",
+            "name": "matlagningsvin, vitt"
+        },
+        {
+            "amount": "1",
+            "unit": "st",
+            "name": "buljong, kyckling"
+        },
+        {
+            "amount": "2",
+            "unit": "dl",
+            "name": "vispgrädde"
+        },
+        {
+            "amount": "1",
+            "unit": "msk",
+            "name": "maizena"
+        },
+        {
+            "amount": "1",
+            "unit": "tsk",
+            "name": "soja"
+        },
+        {
+            "amount": "2,5",
+            "unit": "tsk",
+            "name": "sambal oelek"
+        },
+        {
+            "amount": "1",
+            "unit": "st",
+            "name": "vitlök"
+        },
+        {
+            "amount": "1/2",
+            "unit": "tsk",
+            "name": "salt"
+        },
+        {
+            "amount": "1",
+            "unit": "nypa",
+            "name": "svartpeppar, grovm."
+        },
+        {
+            "amount": "1",
+            "unit": "nypa",
+            "name": "vitpeppar"
+        },
+        {
+            "amount": "1",
+            "unit": "nypa",
+            "name": "citronpeppar"
+        },
+        {
+            "amount": "1",
+            "unit": "nypa",
+            "name": "dragon"
+        },
+        {
+            "amount": "1/2",
+            "unit": "kruka",
+            "name": "basilika"
+        },
+        {
+            "amount": "1",
+            "unit": "burk",
+            "name": "champinjoner, hela"
+        },
+        {
+            "amount": "1/2",
+            "unit": "st",
+            "name": "purjolök"
+        }
+    ],
+    "servings": {
+        "amount": "4",
+        "unit": "port"
+    },
+    "attributes": "Kyckling, Huvudrätt, Budget, Lättlagat"
+}

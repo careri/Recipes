@@ -1,0 +1,93 @@
+{
+    "title": "Ugnsbakad Lax med Citronpesto",
+    "steps": [
+        "1. Sätt ugnen på 175 grader. Smörj en ugnsfast form med lite olivolja.",
+        "2. Skär citronerna i skivor och täck botten och kanten på formen med citronskivor. Lägg i laxfilén och strö på salt och peppar. Bred röd pesto över laxen och toppa med riven parmesan. Sätt in i ugnen i ca 15 minuter.",
+        "3. Koka bulgurn enligt anvisningen på förpackningen (ca 15 minuter). Skär sparrisen i mindre bitar.",
+        "4. Hetta upp en stekpanna med lite olivolja och lägg i bulgur, citronskal,sparris och tomater och rör om. Låt allt bli varmt och smaka av med salt och peppar. Dekorera med klippt gräslök.",
+        "Till den här rätten kan du använda vilken fisk som helst, till exempel torsk, sej eller gös.",
+        "Receptet kommer från"
+    ],
+    "ingredients": [
+        {
+            "amount": "600",
+            "unit": "g",
+            "name": "lax"
+        },
+        {
+            "amount": "1",
+            "unit": "msk",
+            "name": "olivolja"
+        },
+        {
+            "amount": "2",
+            "unit": "st",
+            "name": "citron"
+        },
+        {
+            "amount": "1",
+            "unit": "nypa",
+            "name": "svartpeppar, grovm."
+        },
+        {
+            "amount": "1",
+            "unit": "nypa",
+            "name": "salt"
+        },
+        {
+            "amount": "4",
+            "unit": "msk",
+            "name": "pesto, röd"
+        },
+        {
+            "amount": "1,5",
+            "unit": "dl",
+            "name": "parmesan"
+        },
+        {
+            "amount": "2",
+            "unit": "dl",
+            "name": "bulgur"
+        },
+        {
+            "amount": "1",
+            "unit": "knippe",
+            "name": "sparris"
+        },
+        {
+            "amount": "1",
+            "unit": "msk",
+            "name": "olivolja"
+        },
+        {
+            "amount": "1/2",
+            "unit": "st",
+            "name": "citron"
+        },
+        {
+            "amount": "1",
+            "unit": "ask",
+            "name": "tomat"
+        },
+        {
+            "amount": "1",
+            "unit": "nypa",
+            "name": "salt"
+        },
+        {
+            "amount": "1",
+            "unit": "nypa",
+            "name": "svartpeppar, grovm."
+        },
+        {
+            "amount": "3",
+            "unit": "nypor",
+            "name": "gräslök"
+        }
+    ],
+    "servings": {
+        "amount": "4",
+        "unit": "port"
+    },
+    "attributes": "Fisk, Huvudrätt, Lättlagat"
+}

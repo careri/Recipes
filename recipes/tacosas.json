@@ -1,0 +1,52 @@
+{
+    "title": "Tacosås",
+    "steps": [
+        "Hacka lök och chilifrukt. Grön chili brukar inte vara så stark men ta bort kärnorna om så skulle vara. Fräs upp lök och chili i olja i en tjockbottnad kastrull. Häll i tomatkross.",
+        "Tillsätt vinäger och socker och låt salsan koka ihop till ganska fast konsistens.",
+        "Salta och blanda eventuellt i finhackad jalapeno om du vill ha starkare smak. En tesked ger en styrka mellan medium och hot.",
+        "Salsan kan sparas någon vecka i kylen",
+        "Från dn.se"
+    ],
+    "ingredients": [
+        {
+            "amount": "1",
+            "unit": "burk",
+            "name": "tomater, krossade"
+        },
+        {
+            "amount": "2",
+            "unit": "tsk",
+            "name": "vinäger, vitvin"
+        },
+        {
+            "amount": "1",
+            "unit": "tsk",
+            "name": "socker"
+        },
+        {
+            "amount": "1",
+            "unit": "st",
+            "name": "chili, grön"
+        },
+        {
+            "amount": "1/2",
+            "unit": "st",
+            "name": "lök, gul"
+        },
+        {
+            "amount": "1/2",
+            "unit": "tsk",
+            "name": "salt"
+        },
+        {
+            "amount": "1",
+            "unit": "st",
+            "name": "jalapeños"
+        }
+    ],
+    "servings": {
+        "amount": "4",
+        "unit": "port"
+    },
+    "attributes": "Grönsaker, Tillbehör, Lättlagat, Vegetariska"
+}

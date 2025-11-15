@@ -1,0 +1,39 @@
+{
+    "title": "Pappas Mumma",
+    "steps": [
+        "Blanda Gin, Porter, Öl & Madera.",
+        "Häll på med sockerdricka tills tillbringaren är full."
+    ],
+    "ingredients": [
+        {
+            "amount": "1/2",
+            "unit": "dl",
+            "name": "gin"
+        },
+        {
+            "amount": "1",
+            "unit": "st",
+            "name": "porter"
+        },
+        {
+            "amount": "1",
+            "unit": "st",
+            "name": "starköl"
+        },
+        {
+            "amount": "5",
+            "unit": "dl",
+            "name": "sockerdricka"
+        },
+        {
+            "amount": "1/2",
+            "unit": "dl",
+            "name": "madera"
+        }
+    ],
+    "servings": {
+        "amount": "4",
+        "unit": "port"
+    },
+    "attributes": "Övrigt, Drycker, Lättlagat, Fest"
+}

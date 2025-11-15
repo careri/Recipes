@@ -1,0 +1,65 @@
+{
+    "title": "Asiatisk Kycklingsoppa m Ingefära och Chili",
+    "steps": [
+        "-Lägg nudlarna i en stor skål. Häll över kokande vatten så att de täcks. Låt det stå tills nudlarna är mjuka, ca. 5 min. Häll bort vattnet.",
+        "-Blanda buljong, skivad schalottenlök, ingefära i skivor samt fisksås i en stor gryta. Koka upp soppan, vrid ner till låg värme och låt den sjuda i 10 min. Ta bort ingefärsskivorna från soppan och koka upp den igen. Tillsätt nudlar och kokt kyckling i tärningar. Låt det sjuda, tills kycklingköttet är genomvarmt, ca. 3 min.",
+        "-Häll soppan i skålar och låt alla som äter själva fylla på med böngroddar, mynta och hackad chili, om så önskas, i soppan. Pressa limesaft över soppan."
+    ],
+    "ingredients": [
+        {
+            "amount": "100",
+            "unit": "g",
+            "name": "nudlar"
+        },
+        {
+            "amount": "1,5",
+            "unit": "liter",
+            "name": "buljong, höns"
+        },
+        {
+            "amount": "3",
+            "unit": "st",
+            "name": "scharlottenlök"
+        },
+        {
+            "amount": "6",
+            "unit": "skivor",
+            "name": "ingefära, färsk"
+        },
+        {
+            "amount": "2",
+            "unit": "msk",
+            "name": "fisksås"
+        },
+        {
+            "amount": "300",
+            "unit": "g",
+            "name": "kycklingfile"
+        },
+        {
+            "amount": "1",
+            "unit": "dl",
+            "name": "böngroddar"
+        },
+        {
+            "amount": "1",
+            "unit": "dl",
+            "name": "mynta"
+        },
+        {
+            "amount": "1",
+            "unit": "st",
+            "name": "chili, grön"
+        },
+        {
+            "amount": "1",
+            "unit": "st",
+            "name": "lime"
+        }
+    ],
+    "servings": {
+        "amount": "4",
+        "unit": "port"
+    },
+    "attributes": "Kyckling, Huvudrätt, Lättlagat"
+}

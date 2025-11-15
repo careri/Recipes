@@ -1,0 +1,72 @@
+{
+    "title": "Entrecote i Gorgonzolasås",
+    "steps": [
+        "Börja med röstin. Skala och riv potatisen grovt. Pressa ut det mesta av vätskan.",
+        "Låt hälften av margarinet bli ljusbrunt i en stor teflonpanna.Lägg i potatisen. Packa den med en stekspade. Sänk temperaturen och lägg på ett lock. Stek röstin i 10 minuter. Vänd röstin med hjälp av en tallrik. Lägg i 1 msk margarin och stek röstin på samma sätt på andra sidan. Salta och peppra.",
+        "Stek entrecoten i margarin som du vill ha den (gärna något rosa). Tillsätt purjo, morot och palsternacka. Fräs grönsakerna så att de blir något mjuka. Rör ner ost och mjölk. Servera köttet med röstin.",
+        "1 portion = 584 kcal",
+        "Från: viktklubb.se"
+    ],
+    "ingredients": [
+        {
+            "amount": "1",
+            "unit": "kg",
+            "name": "potatis"
+        },
+        {
+            "amount": "1",
+            "unit": "msk",
+            "name": "margarin"
+        },
+        {
+            "amount": "1",
+            "unit": "nypa",
+            "name": "salt"
+        },
+        {
+            "amount": "1",
+            "unit": "nypa",
+            "name": "svartpeppar"
+        },
+        {
+            "amount": "500",
+            "unit": "g",
+            "name": "entrecote"
+        },
+        {
+            "amount": "1",
+            "unit": "msk",
+            "name": "margarin"
+        },
+        {
+            "amount": "100",
+            "unit": "g",
+            "name": "purjolök"
+        },
+        {
+            "amount": "200",
+            "unit": "g",
+            "name": "morötter"
+        },
+        {
+            "amount": "125",
+            "unit": "g",
+            "name": "palsternacka"
+        },
+        {
+            "amount": "50",
+            "unit": "g",
+            "name": "gorgonzola"
+        },
+        {
+            "amount": "1",
+            "unit": "dl",
+            "name": "mjölk, mellan"
+        }
+    ],
+    "servings": {
+        "amount": "4",
+        "unit": "port"
+    },
+    "attributes": "Nötkött, Huvudrätt, Lättlagat, Fest"
+}

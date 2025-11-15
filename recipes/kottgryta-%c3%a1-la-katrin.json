@@ -1,0 +1,85 @@
+{
+    "title": "Köttgryta Á la Katrin",
+    "steps": [
+        "Skär köttet i lagom stora grytbitar och börja stek det i en stekgryta.",
+        "Skär löken i klyftor och stoppa det i grytan.",
+        "Skär palsternackorna och rödbetan kantarellerna och stoppa dem med i grytan.",
+        "Häll på lite vispgrädde.",
+        "Krydda med soya, fond, enbär, svart vinbärsgelé och rött vin efter tycke.",
+        "Häll på lite mer grädde - smaka av!",
+        "Låt koka i drygt en timme.",
+        "Servera med ris eller något annat gott!"
+    ],
+    "ingredients": [
+        {
+            "amount": "500",
+            "unit": "g",
+            "name": "grytbitar, nöt"
+        },
+        {
+            "amount": "300",
+            "unit": "g",
+            "name": "kantareller"
+        },
+        {
+            "amount": "3",
+            "unit": "st",
+            "name": "palsternacka"
+        },
+        {
+            "amount": "1",
+            "unit": "st",
+            "name": "rödbetor"
+        },
+        {
+            "amount": "2",
+            "unit": "st",
+            "name": "lök, gul"
+        },
+        {
+            "amount": "1",
+            "unit": "msk",
+            "name": "soya sauce"
+        },
+        {
+            "amount": "1",
+            "unit": "msk",
+            "name": "fond, ox"
+        },
+        {
+            "amount": "1",
+            "unit": "msk",
+            "name": "fond, kalv"
+        },
+        {
+            "amount": "1",
+            "unit": "nypa",
+            "name": "svartpeppar, grovm."
+        },
+        {
+            "amount": "1",
+            "unit": "msk",
+            "name": "enbär"
+        },
+        {
+            "amount": "1",
+            "unit": "dl",
+            "name": "vin, rött"
+        },
+        {
+            "amount": "2,5",
+            "unit": "dl",
+            "name": "vispgrädde"
+        },
+        {
+            "amount": "2,5",
+            "unit": "msk",
+            "name": "gelé"
+        }
+    ],
+    "servings": {
+        "amount": "4",
+        "unit": "port"
+    },
+    "attributes": "Nötkött, Huvudrätt, Lättlagat"
+}

@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Recipe - Recipes App</title>
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700&display=swap">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
+    <link rel="stylesheet" href="https://unpkg.com/material-components-web@14.0.0/dist/material-components-web.min.css">
+    <style>
+        body {
+            font-family: 'Roboto', sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f5f5f5;
+        }
+        .mdc-top-app-bar {
+            background-color: #6200ee;
+        }
+        .mdc-card {
+            margin: 16px;
+        }
+    </style>
+</head>
+<body>
+    <header class="mdc-top-app-bar">
+        <div class="mdc-top-app-bar__row">
+            <section class="mdc-top-app-bar__section mdc-top-app-bar__section--align-start">
+                <button class="mdc-icon-button material-icons" onclick="window.location.href='index.html'">arrow_back</button>
+                <span class="mdc-top-app-bar__title">Recipe</span>
+            </section>
+            <section class="mdc-top-app-bar__section mdc-top-app-bar__section--align-end">
+                <button class="mdc-icon-button material-icons" onclick="editRecipe()">edit</button>
+            </section>
+        </div>
+    </header>
+
+    <main class="mdc-top-app-bar--fixed-adjust">
+        <div id="recipe-detail"></div>
+    </main>
+
+    <script src="https://unpkg.com/material-components-web@14.0.0/dist/material-components-web.min.js"></script>
+    <script src="recipe.js"></script>
+</body>
+</html>

@@ -1,0 +1,105 @@
+{
+    "title": "Kycklingstroganoff",
+    "steps": [
+        "Koka 4 portioner ris enligt anvisning på förpackningen.",
+        "Tärna 1 gul paprika och lägg i en skål. Skär 250 g broccoli i små buketter och koka dem mjuka.",
+        "Finhacka 1 gul lök, strimla kycklingen tunt, skär zuccinin i små bitar, skala vitlöksklyftorna.",
+        "Bryn löken och kycklingen i olja i en rymlig stekpanna. Pressa ner vitlöksklyftorna.",
+        "Tillsätt ½ msk torkad oregano, salt, svartpeppar, kycklingbuljong, honung och tomatpuré.",
+        "Tillsätt zuccinin.",
+        "Pudra över 1 msk vetemjöl och rör runt. Tillsätt 2 dl mjölk och 1 dl creme fraiche under omrörning. Låt puttra på medelvärme i 2-3 min, eller tills kycklingen är genomkokt.",
+        "Strö ½ pkt persilja över stroganoffen och servera till grönsaker och ris."
+    ],
+    "ingredients": [
+        {
+            "amount": "4",
+            "unit": "dl",
+            "name": "ris"
+        },
+        {
+            "amount": "1",
+            "unit": "st",
+            "name": "paprika, gul"
+        },
+        {
+            "amount": "250",
+            "unit": "g",
+            "name": "broccoli"
+        },
+        {
+            "amount": "1",
+            "unit": "st",
+            "name": "lök, gul"
+        },
+        {
+            "amount": "700",
+            "unit": "g",
+            "name": "kycklingfile"
+        },
+        {
+            "amount": "3",
+            "unit": "klyftor",
+            "name": "vitlök"
+        },
+        {
+            "amount": "1/2",
+            "unit": "msk",
+            "name": "oregano"
+        },
+        {
+            "amount": "1/2",
+            "unit": "tsk",
+            "name": "salt"
+        },
+        {
+            "amount": "1",
+            "unit": "krm",
+            "name": "svartpeppar, grovm."
+        },
+        {
+            "amount": "1",
+            "unit": "tärning",
+            "name": "buljong, kyckling"
+        },
+        {
+            "amount": "1",
+            "unit": "tsk",
+            "name": "honung"
+        },
+        {
+            "amount": "4",
+            "unit": "msk",
+            "name": "tomatpuré"
+        },
+        {
+            "amount": "1",
+            "unit": "msk",
+            "name": "vetemjöl"
+        },
+        {
+            "amount": "2",
+            "unit": "dl",
+            "name": "mjölk"
+        },
+        {
+            "amount": "1",
+            "unit": "dl",
+            "name": "creme fraiche"
+        },
+        {
+            "amount": "1",
+            "unit": "st",
+            "name": "zuccini"
+        },
+        {
+            "amount": "1/2",
+            "unit": "pkt",
+            "name": "persilja"
+        }
+    ],
+    "servings": {
+        "amount": "4",
+        "unit": "port"
+    },
+    "attributes": "Kyckling, Huvudrätt, Lättlagat"
+}

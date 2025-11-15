@@ -1,0 +1,54 @@
+{
+    "title": "Rabarberkaka (m Kokos)",
+    "steps": [
+        "Blanda ihop 100 g rumsvarmt smör med 1 äggula och blanda sedan detta ihop med ovan torra ingredienser.",
+        "Strö/smeta ut"
+    ],
+    "ingredients": [
+        {
+            "amount": "500",
+            "unit": "g",
+            "name": "rabarber"
+        },
+        {
+            "amount": "1",
+            "unit": "msk",
+            "name": "strösocker"
+        },
+        {
+            "amount": "1",
+            "unit": "msk",
+            "name": "vaniljsocker"
+        },
+        {
+            "amount": "1",
+            "unit": "msk",
+            "name": "potatismjöl"
+        },
+        {
+            "amount": "3",
+            "unit": "dl",
+            "name": "kokosflingor"
+        },
+        {
+            "amount": "4",
+            "unit": "dl",
+            "name": "socker"
+        },
+        {
+            "amount": "1/2",
+            "unit": "dl",
+            "name": "vetemjöl"
+        },
+        {
+            "amount": "1",
+            "unit": "krm",
+            "name": "bakpulver"
+        }
+    ],
+    "servings": {
+        "amount": "4",
+        "unit": "port"
+    },
+    "attributes": "Frukt & Bär, Efterrätt, Lättlagat, Fest"
+}

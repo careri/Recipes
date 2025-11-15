@@ -1,0 +1,46 @@
+{
+    "title": "Havrekakor",
+    "steps": [],
+    "ingredients": [
+        {
+            "amount": "5,5",
+            "unit": "dl",
+            "name": "havregryn"
+        },
+        {
+            "amount": "4",
+            "unit": "dl",
+            "name": "vetemjöl"
+        },
+        {
+            "amount": "150",
+            "unit": "g",
+            "name": "smör"
+        },
+        {
+            "amount": "1/2",
+            "unit": "dl",
+            "name": "socker"
+        },
+        {
+            "amount": "3/4",
+            "unit": "dl",
+            "name": "farinsocker"
+        },
+        {
+            "amount": "1",
+            "unit": "dl",
+            "name": "sirap, ljus"
+        },
+        {
+            "amount": "1,5",
+            "unit": "dl",
+            "name": "mandel"
+        }
+    ],
+    "servings": {
+        "amount": "4",
+        "unit": "port"
+    },
+    "attributes": "Övrigt, Lättlagat, Bakning"
+}

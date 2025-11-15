@@ -1,0 +1,43 @@
+{
+    "title": "Frasvåfflor Leilas",
+    "steps": [
+        "1. Rör samman vatten, mjöl och salt till en jämn smet. Vispa grädden hårt och vänd ihop med smeten.",
+        "2. Grädda med smör i ett våffeljärn på full effekt och lägg dem på ett galler.",
+        "3. Med sylt och grädde: Vispa upp grädde och lägg på våfflorna tillsammans med sylt.",
+        "4. Med löjrom: Hacka rödlök och gräslök, blanda och fyll i en skål. Hacka dillen grovt, skär citronen i klyftor och lägg i skålar. Skär våfflorna i hjärtan och servera ljumma med löjrom och tillbehör.",
+        "Leila Lindholms recept",
+        "Från http://www.recept.nu/1.16873/leila_lindholm/efterratter_godis/agg_mejeri/frasvafflor"
+    ],
+    "ingredients": [
+        {
+            "amount": "2,2",
+            "unit": "dl",
+            "name": "vatten"
+        },
+        {
+            "amount": "2,6",
+            "unit": "dl",
+            "name": "vetemjöl"
+        },
+        {
+            "amount": "1",
+            "unit": "nypa",
+            "name": "flingsalt"
+        },
+        {
+            "amount": "3,2",
+            "unit": "dl",
+            "name": "vispgrädde"
+        },
+        {
+            "amount": "1",
+            "unit": "tärning",
+            "name": "smör"
+        }
+    ],
+    "servings": {
+        "amount": "8",
+        "unit": "st"
+    },
+    "attributes": "Övrigt, Efterrätt, Budget, Lättlagat, Fest"
+}

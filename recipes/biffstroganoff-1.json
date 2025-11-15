@@ -1,0 +1,81 @@
+{
+    "title": "Biffstroganoff",
+    "steps": [
+        "1. Bryn köttet och löken i smör i stekpanna. Lägg över i en liten gryta. Tillsätt tomatpuré, vatten och kalvfond. Låt puttra i ca 15 minuter.",
+        "2. Späd biffgrytan med crème fraiche innan servering och smaka av med fransk senap, salt och peppar.",
+        "3. Koka riset enligt anvisningarna på paketet.",
+        "Servera stroganoff med saltgurka i stavar och en klick kesellafil"
+    ],
+    "ingredients": [
+        {
+            "amount": "400",
+            "unit": "g",
+            "name": "rostbiff"
+        },
+        {
+            "amount": "1,5",
+            "unit": "dl",
+            "name": "kidneybönor"
+        },
+        {
+            "amount": "1/2",
+            "unit": "msk",
+            "name": "smör"
+        },
+        {
+            "amount": "1,5",
+            "unit": "dl",
+            "name": "creme fraiche"
+        },
+        {
+            "amount": "3",
+            "unit": "msk",
+            "name": "dijonsenap"
+        },
+        {
+            "amount": "2",
+            "unit": "st",
+            "name": "lök, gul"
+        },
+        {
+            "amount": "1,5",
+            "unit": "msk",
+            "name": "fond, kalv"
+        },
+        {
+            "amount": "2",
+            "unit": "msk",
+            "name": "tomatpuré"
+        },
+        {
+            "amount": "2",
+            "unit": "dl",
+            "name": "vatten"
+        },
+        {
+            "amount": "2",
+            "unit": "msk",
+            "name": "kesella"
+        },
+        {
+            "amount": "2",
+            "unit": "msk",
+            "name": "filmjölk, standard"
+        },
+        {
+            "amount": "4",
+            "unit": "st",
+            "name": "saltgurka, hel"
+        },
+        {
+            "amount": "3",
+            "unit": "dl",
+            "name": "ris, basmati"
+        }
+    ],
+    "servings": {
+        "amount": "4",
+        "unit": "port"
+    },
+    "attributes": "Nötkött, Huvudrätt, Lättlagat"
+}

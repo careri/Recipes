@@ -1,0 +1,72 @@
+{
+    "title": "Picant Biff Stroganoff",
+    "steps": [
+        "1. Strimla och bryn kött och hackad lök i en stekpanna.",
+        "2. Krydda med salt och peppar. Strö över mjölet. Rör om.",
+        "3. Tillsätt salsa, grädde och lite soja. Rör om väl.",
+        "4. Låt sjuda på svag värme under lock ca 10 min.",
+        "5. Servera med ris eller potatis och en grönsallad. Vill du ha en starkare smak, tillsätt några skivor jalapeños."
+    ],
+    "ingredients": [
+        {
+            "amount": "400",
+            "unit": "g",
+            "name": "ryggbiff"
+        },
+        {
+            "amount": "1",
+            "unit": "st",
+            "name": "lök, gul"
+        },
+        {
+            "amount": "2,5",
+            "unit": "msk",
+            "name": "smör"
+        },
+        {
+            "amount": "1",
+            "unit": "nypa",
+            "name": "salt"
+        },
+        {
+            "amount": "1",
+            "unit": "nypa",
+            "name": "svartpeppar, grovm."
+        },
+        {
+            "amount": "1",
+            "unit": "msk",
+            "name": "vetemjöl"
+        },
+        {
+            "amount": "1",
+            "unit": "burk",
+            "name": "salsa"
+        },
+        {
+            "amount": "2,5",
+            "unit": "dl",
+            "name": "grädde, matlagning"
+        },
+        {
+            "amount": "1",
+            "unit": "tsk",
+            "name": "soja"
+        },
+        {
+            "amount": "1",
+            "unit": "par",
+            "name": "jalapeños"
+        },
+        {
+            "amount": "1",
+            "unit": "påse",
+            "name": "sallad"
+        }
+    ],
+    "servings": {
+        "amount": "4",
+        "unit": "port"
+    },
+    "attributes": "Nötkött, Huvudrätt, Budget, Lättlagat"
+}

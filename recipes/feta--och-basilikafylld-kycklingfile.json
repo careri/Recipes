@@ -1,0 +1,88 @@
+{
+    "title": "Feta- och Basilikafylld Kycklingfilé",
+    "steps": [
+        "Sätt ugnen på 225 grader.",
+        "Smörj en långpanna med olivolja.",
+        "Tvätta och dela ev. potatisen, lägg den tillsammans med skalad och klyftad lök i långpannan.",
+        "Pressa över vitlöksklyftorna och krydda med örtsalt, vitpeppar och hackad timjan.",
+        "Blanda allt och lämna plats för kycklingen i långpannan.",
+        "Lägg ut kycklingfiléerna och skär ett snitt i varje filé.",
+        "Mosa fetaost och blanda med yoghurt och hackad basilika (spar gärna några blad till garnering).",
+        "Fyll filéerna och lägg även lite fyllning ovanpå.",
+        "Sätt in långpannan i ugnen i ca 225 grader i ca 25 min eller tills kycklingen är 70 grader.",
+        "Servera med svarta oliver och avokadoklyftor.",
+        "Receptet är taget från prioleva, visthuskassen v.11 2013."
+    ],
+    "ingredients": [
+        {
+            "amount": "1",
+            "unit": "kg",
+            "name": "potatis"
+        },
+        {
+            "amount": "2",
+            "unit": "st",
+            "name": "lök, röd"
+        },
+        {
+            "amount": "5",
+            "unit": "klyftor",
+            "name": "vitlök"
+        },
+        {
+            "amount": "2",
+            "unit": "tsk",
+            "name": "örtsalt"
+        },
+        {
+            "amount": "2",
+            "unit": "msk",
+            "name": "timjan"
+        },
+        {
+            "amount": "2",
+            "unit": "msk",
+            "name": "matolja"
+        },
+        {
+            "amount": "1",
+            "unit": "nypa",
+            "name": "vitpeppar"
+        },
+        {
+            "amount": "700",
+            "unit": "g",
+            "name": "kycklingfile"
+        },
+        {
+            "amount": "100",
+            "unit": "g",
+            "name": "fetaost"
+        },
+        {
+            "amount": "1",
+            "unit": "dl",
+            "name": "matyoghurt"
+        },
+        {
+            "amount": "1",
+            "unit": "st",
+            "name": "basilika"
+        },
+        {
+            "amount": "2",
+            "unit": "st",
+            "name": "avokado"
+        },
+        {
+            "amount": "1",
+            "unit": "burk",
+            "name": "oliver, svarta"
+        }
+    ],
+    "servings": {
+        "amount": "4",
+        "unit": "port"
+    },
+    "attributes": "Kyckling, Huvudrätt, Lättlagat, Fest"
+}

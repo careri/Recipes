@@ -1,0 +1,87 @@
+{
+    "title": "Strimlad Kyckling med Lime och Ingefärasås",
+    "steps": [
+        "Från www.nlife.se",
+        "Strimla köttet och fräs det i oljan en stund. Vrid ett par varv med svartpepparkvarnen över köttet. Skala och strimla salladslök och morot. Kärna ur och strimla paprikan. Ställ köttet åt sidan och börja med såsen.",
+        "Riv skalet och pressa ur saften ur en limefrukt. Lägg detta i en skål. Riv ner ingefära och pressa i en vitlöksklyfta. Häll i soja, honung och maizena-vattnet.",
+        "Ställ köttet på plattan igen och låt det brynas tills det fått fin färg. Lägg i strimlad salladslök, morot och paprika och fräs med i några minuter. Häll såsen över alltsammans och låt koka i ca 3 minuter. Det ska få en simmig konsistens. Nu går det fort.",
+        "Servera omedelbart med bulgur och spenat."
+    ],
+    "ingredients": [
+        {
+            "amount": "600",
+            "unit": "g",
+            "name": "kycklingfile"
+        },
+        {
+            "amount": "1",
+            "unit": "nypa",
+            "name": "svartpeppar, grovm."
+        },
+        {
+            "amount": "1",
+            "unit": "msk",
+            "name": "rapsolja"
+        },
+        {
+            "amount": "3",
+            "unit": "st",
+            "name": "salladslök"
+        },
+        {
+            "amount": "1",
+            "unit": "st",
+            "name": "morötter"
+        },
+        {
+            "amount": "1",
+            "unit": "st",
+            "name": "paprika, röd"
+        },
+        {
+            "amount": "Lime-",
+            "unit": "&",
+            "name": "ingefärasås"
+        },
+        {
+            "amount": "1",
+            "unit": "st",
+            "name": "lime"
+        },
+        {
+            "amount": "2",
+            "unit": "tsk",
+            "name": "ingefära, färsk"
+        },
+        {
+            "amount": "2",
+            "unit": "tsk",
+            "name": "soja"
+        },
+        {
+            "amount": "2",
+            "unit": "klyftor",
+            "name": "vitlök"
+        },
+        {
+            "amount": "1",
+            "unit": "msk",
+            "name": "honung"
+        },
+        {
+            "amount": "1",
+            "unit": "msk",
+            "name": "maizena"
+        },
+        {
+            "amount": "3",
+            "unit": "st",
+            "name": "bulgur"
+        }
+    ],
+    "servings": {
+        "amount": "4",
+        "unit": "port"
+    },
+    "attributes": "Kyckling, Huvudrätt, Budget, Lättlagat"
+}

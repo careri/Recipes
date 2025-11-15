@@ -1,0 +1,106 @@
+{
+    "title": "Het Stroganoff med Gurksallad",
+    "steps": [
+        "1. Skär gurkan till gurksalladen i centimeterstora kuber. Blanda med matlagningsyoghurt och hackad vitlök. Smaka av med salt och peppar. Ställ kallt.",
+        "2. Koka ris oxå :)",
+        "3. Skala och hacka löken. Strimla falukorven och paprikan. Kärna ur och ta bort de vita hinnorna på chilin. Hacka chilifrukten eller skär den i tunna ringar.",
+        "4. Fräs löken i olja på svag värme i några minuter. Tillsätt korven och paprikapulvret och fräs tills korven fått lite stekyta. Tillsätt minifraiche, tomatpuré, chili, paprika, rosmarin och halverade oliver. Späd eventuellt med vattnet. Låt koka upp och smaka av med socker och salt. Servera med ris och gurksallad."
+    ],
+    "ingredients": [
+        {
+            "amount": "550",
+            "unit": "g",
+            "name": "falukorv"
+        },
+        {
+            "amount": "2",
+            "unit": "st",
+            "name": "lök, gul"
+        },
+        {
+            "amount": "1",
+            "unit": "st",
+            "name": "paprika, röd"
+        },
+        {
+            "amount": "2",
+            "unit": "dl",
+            "name": "creme fraiche, mini"
+        },
+        {
+            "amount": "3",
+            "unit": "msk",
+            "name": "tomatpuré"
+        },
+        {
+            "amount": "1",
+            "unit": "st",
+            "name": "chili, röd"
+        },
+        {
+            "amount": "16",
+            "unit": "st",
+            "name": "oliver, svarta"
+        },
+        {
+            "amount": "1/2",
+            "unit": "dl",
+            "name": "vatten"
+        },
+        {
+            "amount": "1",
+            "unit": "msk",
+            "name": "olivolja"
+        },
+        {
+            "amount": "2",
+            "unit": "stjälkar",
+            "name": "rosmarin"
+        },
+        {
+            "amount": "1",
+            "unit": "tsk",
+            "name": "paprikapulver"
+        },
+        {
+            "amount": "1",
+            "unit": "nypa",
+            "name": "salt"
+        },
+        {
+            "amount": "1",
+            "unit": "nypa",
+            "name": "salt"
+        },
+        {
+            "amount": "2",
+            "unit": "klyftor",
+            "name": "vitlök"
+        },
+        {
+            "amount": "1",
+            "unit": "nypa",
+            "name": "svartpeppar, grovm."
+        },
+        {
+            "amount": "1",
+            "unit": "st",
+            "name": "gurka"
+        },
+        {
+            "amount": "1/2",
+            "unit": "dl",
+            "name": "yoghurt"
+        },
+        {
+            "amount": "4",
+            "unit": "st",
+            "name": "ris"
+        }
+    ],
+    "servings": {
+        "amount": "4",
+        "unit": "port"
+    },
+    "attributes": "Korv, Huvudrätt, Budget, Lättlagat"
+}

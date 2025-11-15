@@ -1,0 +1,106 @@
+{
+    "title": "Fiskfärsbiffar med Pepparrot",
+    "steps": [
+        "Biffarna: Kör löken i en matberedare. Tillsätt fisk, pepparrot, ägg, majonnäs, ströbröd, salt och peppar. Kör tills smeten är slät. Forma 12 biffar och stek dem i margarin i en stekpanna.",
+        "Sås: Blanda gräddfil, finhackad gräslök, vinäger, salt och peppar. Servera med kokt potatis, salladsblad, samt knäckebröd.",
+        "1 portion = 535 kcal",
+        "Från viktklubb.se"
+    ],
+    "ingredients": [
+        {
+            "amount": "400",
+            "unit": "g",
+            "name": "torsk"
+        },
+        {
+            "amount": "100",
+            "unit": "g",
+            "name": "lök, gul"
+        },
+        {
+            "amount": "2",
+            "unit": "msk",
+            "name": "pepparrot"
+        },
+        {
+            "amount": "1",
+            "unit": "st",
+            "name": "ägg"
+        },
+        {
+            "amount": "1",
+            "unit": "msk",
+            "name": "majonnäs"
+        },
+        {
+            "amount": "1/2",
+            "unit": "dl",
+            "name": "ströbröd"
+        },
+        {
+            "amount": "1",
+            "unit": "tsk",
+            "name": "salt"
+        },
+        {
+            "amount": "1",
+            "unit": "nypa",
+            "name": "svartpeppar"
+        },
+        {
+            "amount": "2",
+            "unit": "msk",
+            "name": "margarin"
+        },
+        {
+            "amount": "2",
+            "unit": "dl",
+            "name": "gräddfil"
+        },
+        {
+            "amount": "2",
+            "unit": "msk",
+            "name": "gräslök"
+        },
+        {
+            "amount": "1",
+            "unit": "tsk",
+            "name": "äppelcidervinäger"
+        },
+        {
+            "amount": "1",
+            "unit": "nypa",
+            "name": "salt"
+        },
+        {
+            "amount": "1",
+            "unit": "nypa",
+            "name": "svartpeppar"
+        },
+        {
+            "amount": "Till",
+            "unit": "maten",
+            "name": ""
+        },
+        {
+            "amount": "1",
+            "unit": "kg",
+            "name": "potatis"
+        },
+        {
+            "amount": "150",
+            "unit": "g",
+            "name": "sallad, blandad"
+        },
+        {
+            "amount": "4",
+            "unit": "st",
+            "name": "knäckebröd"
+        }
+    ],
+    "servings": {
+        "amount": "4",
+        "unit": "port"
+    },
+    "attributes": "Fisk, Huvudrätt, Lättlagat"
+}

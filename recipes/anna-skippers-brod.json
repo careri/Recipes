@@ -1,0 +1,67 @@
+{
+    "title": "Anna Skippers Bröd",
+    "steps": [
+        "Sätt ugnen på 175 c.",
+        "Blanda alla torra ingredienser. Rör ned filen o sirapen.",
+        "Smöra o bröa två 1.5 liters avlånga formar.",
+        "Grädda ca 100 minuter.",
+        "Alternativ – gör halva satsen i en brödform och grädda i 60 minuter."
+    ],
+    "ingredients": [
+        {
+            "amount": "5",
+            "unit": "dl",
+            "name": "dinkelmjöl"
+        },
+        {
+            "amount": "2",
+            "unit": "dl",
+            "name": "mjöl, graham"
+        },
+        {
+            "amount": "3",
+            "unit": "dl",
+            "name": "rågsikt"
+        },
+        {
+            "amount": "2,5",
+            "unit": "dl",
+            "name": "fyrkornskross"
+        },
+        {
+            "amount": "1",
+            "unit": "dl",
+            "name": "vetegroddar"
+        },
+        {
+            "amount": "1",
+            "unit": "tsk",
+            "name": "havssalt"
+        },
+        {
+            "amount": "4",
+            "unit": "tsk",
+            "name": "bikarbonat"
+        },
+        {
+            "amount": "5",
+            "unit": "msk",
+            "name": "brödkrydda"
+        },
+        {
+            "amount": "1",
+            "unit": "liter",
+            "name": "filmjölk, standard"
+        },
+        {
+            "amount": "1",
+            "unit": "dl",
+            "name": "sirap, ljus"
+        }
+    ],
+    "servings": {
+        "amount": "2",
+        "unit": "st"
+    },
+    "attributes": "Övrigt, Lättlagat, Bakning"
+}

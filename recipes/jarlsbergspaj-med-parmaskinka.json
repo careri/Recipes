@@ -1,0 +1,100 @@
+{
+    "title": "Jarlsbergspaj med Parmaskinka",
+    "steps": [
+        "1. Pajform (gärna med löstagbar kant), 22 el 24 cm i diameter.",
+        "Förgrädda pajskalet i 200C i ca 10min.",
+        "Grädda färdigt hela pajen i 200C 20min.",
+        "2. Blanda smör och mjöl till en grynig massa, gärna i matberedare.",
+        "Tillsätt vattnet och arbeta snabbt ihop en deg. Tryck ut degen i en form, nagga med en gaffel och låt vila i kylskåp ca 30min.",
+        "3. Förgrädda pajskalet ca 10min. Vispa ihop ägg, mjölk, ost, salt och peppar. Häll äggstanningen i pajskalet och grädda färdigt pajen, ca 20min.",
+        "4. Gör dressingen. Blanda vatten, vinäger och olja med salt och peppar.",
+        "5. Kärna ur paprikan och strimla den. Dela tomaterna i halvor. Grovstrimla sallaten och strö den över pajen, som kan serveras ljummen eller kall. Lägg de övriga grönsakerna ovanpå och ringla över dressingen. Rulla ihop skinkskivorna och arrangera dem ovanpå salladen strax före serveringen."
+    ],
+    "ingredients": [
+        {
+            "amount": "200",
+            "unit": "g",
+            "name": "ost"
+        },
+        {
+            "amount": "2,5",
+            "unit": "dl",
+            "name": "mjölk, lätt"
+        },
+        {
+            "amount": "1/2",
+            "unit": "tsk",
+            "name": "svartpeppar"
+        },
+        {
+            "amount": "3",
+            "unit": "st",
+            "name": "ägg"
+        },
+        {
+            "amount": "2,5",
+            "unit": "dl",
+            "name": "vetemjöl"
+        },
+        {
+            "amount": "100",
+            "unit": "g",
+            "name": "smör"
+        },
+        {
+            "amount": "2",
+            "unit": "msk",
+            "name": "vatten"
+        },
+        {
+            "amount": "1",
+            "unit": "msk",
+            "name": "balsamvinäger"
+        },
+        {
+            "amount": "50",
+            "unit": "g",
+            "name": "grönsaker"
+        },
+        {
+            "amount": "12",
+            "unit": "st",
+            "name": "körsbärstomater"
+        },
+        {
+            "amount": "1",
+            "unit": "msk",
+            "name": "majsolja"
+        },
+        {
+            "amount": "1/2",
+            "unit": "tsk",
+            "name": "svartpeppar"
+        },
+        {
+            "amount": "1",
+            "unit": "st",
+            "name": "paprika, röd"
+        },
+        {
+            "amount": "1/2",
+            "unit": "tsk",
+            "name": "salt"
+        },
+        {
+            "amount": "1",
+            "unit": "msk",
+            "name": "vatten"
+        },
+        {
+            "amount": "6",
+            "unit": "skivor",
+            "name": "parmaskinka"
+        }
+    ],
+    "servings": {
+        "amount": "4",
+        "unit": "port"
+    },
+    "attributes": "Övrigt, Huvudrätt, Fest"
+}

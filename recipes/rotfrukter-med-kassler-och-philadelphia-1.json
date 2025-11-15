@@ -1,0 +1,90 @@
+{
+    "title": "Rotfrukter med Kassler och Philadelphia",
+    "steps": [
+        "Lägg rödbetor, palsternacka, potatis och rödlök i en långpanna. Ringla över olivolja. Tillsätt timjan, oregano, vitlök och salt. Ugnsbaka i 225 grader i 40 minuter. Tillsätt champinjonerna efter halva tiden.",
+        "Stek kasslern snabbt i en grillpanna (det behövs inget fett) eller i en vanlig stekpanna. Servera med en klick philadelphia samt sallad.",
+        "440 kcal/port"
+    ],
+    "ingredients": [
+        {
+            "amount": "400",
+            "unit": "g",
+            "name": "rödbetor"
+        },
+        {
+            "amount": "250",
+            "unit": "g",
+            "name": "palsternacka"
+        },
+        {
+            "amount": "500",
+            "unit": "g",
+            "name": "potatis"
+        },
+        {
+            "amount": "2",
+            "unit": "st",
+            "name": "lök, röd"
+        },
+        {
+            "amount": "200",
+            "unit": "g",
+            "name": "champinjon"
+        },
+        {
+            "amount": "1",
+            "unit": "msk",
+            "name": "olivolja"
+        },
+        {
+            "amount": "1",
+            "unit": "tsk",
+            "name": "timjan"
+        },
+        {
+            "amount": "1",
+            "unit": "tsk",
+            "name": "oregano"
+        },
+        {
+            "amount": "2",
+            "unit": "klyftor",
+            "name": "vitlök"
+        },
+        {
+            "amount": "1",
+            "unit": "nypa",
+            "name": "salt"
+        },
+        {
+            "amount": "400",
+            "unit": "g",
+            "name": "kassler"
+        },
+        {
+            "amount": "100",
+            "unit": "g",
+            "name": "färskost"
+        },
+        {
+            "amount": "150",
+            "unit": "g",
+            "name": "isbergssallad"
+        },
+        {
+            "amount": "100",
+            "unit": "g",
+            "name": "gurka"
+        },
+        {
+            "amount": "2",
+            "unit": "st",
+            "name": "kiwi"
+        }
+    ],
+    "servings": {
+        "amount": "4",
+        "unit": "port"
+    },
+    "attributes": "Fläskkött, Huvudrätt, Lättlagat"
+}

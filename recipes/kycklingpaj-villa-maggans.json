@@ -1,0 +1,68 @@
+{
+    "title": "Kycklingpaj",
+    "steps": [
+        "Blanda mjöl, grahamsmjöl & kylskåpskallt smör i en matberedare tills degen är grynig.",
+        "Tillsätt det kalla vattnet och blanda tills det ser ut som en deg.",
+        "Baka ut degen och nagga den i en pajform och ställ in den i ett kylskåp i minst 30 min.",
+        "Grädda pajformen i 225 grader i 10 min.",
+        "Blanda resten av ingredienserna och häll i dem i pajformen. Grädda i 20 min.",
+        "Om man vill kan man spara lite av degen och lägga den i rader ovanpå pajen."
+    ],
+    "ingredients": [
+        {
+            "amount": "3",
+            "unit": "dl",
+            "name": "mjöl, vete"
+        },
+        {
+            "amount": "1",
+            "unit": "dl",
+            "name": "mjöl, graham"
+        },
+        {
+            "amount": "200",
+            "unit": "g",
+            "name": "smör"
+        },
+        {
+            "amount": "2",
+            "unit": "msk",
+            "name": "vatten"
+        },
+        {
+            "amount": "1",
+            "unit": "st",
+            "name": "kyckling, grillad"
+        },
+        {
+            "amount": "1",
+            "unit": "pkt",
+            "name": "bacon"
+        },
+        {
+            "amount": "1",
+            "unit": "st",
+            "name": "purjolök"
+        },
+        {
+            "amount": "2",
+            "unit": "msk",
+            "name": "chilisås"
+        },
+        {
+            "amount": "4",
+            "unit": "dl",
+            "name": "creme fraiche"
+        },
+        {
+            "amount": "4",
+            "unit": "klyftor",
+            "name": "vitlök"
+        }
+    ],
+    "servings": {
+        "amount": "4",
+        "unit": "port"
+    },
+    "attributes": "Kyckling, Huvudrätt, Lättlagat"
+}

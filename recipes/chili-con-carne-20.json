@@ -1,0 +1,91 @@
+{
+    "title": "Chili Con Carne",
+    "steps": [
+        "Fräs lök, vitlök och köttfärs. Salta och peppra.",
+        "Tillsätt krossade tomater och vita bönor. Tillsätt buljongtärningarna, chilifrukterna, oreganon, chilipulver, cayennpeppar & soltorkade tomater. Kalamataoliver om så önskas.",
+        "en rejäl grönsallad och ett robust rödvin och kvällen är räddad.",
+        "Från nystart.se"
+    ],
+    "ingredients": [
+        {
+            "amount": "2",
+            "unit": "st",
+            "name": "lök, gul"
+        },
+        {
+            "amount": "6",
+            "unit": "klyftor",
+            "name": "vitlök"
+        },
+        {
+            "amount": "700",
+            "unit": "g",
+            "name": "nötfärs"
+        },
+        {
+            "amount": "1",
+            "unit": "nypa",
+            "name": "salt"
+        },
+        {
+            "amount": "1",
+            "unit": "nypa",
+            "name": "svartpeppar"
+        },
+        {
+            "amount": "2",
+            "unit": "burkar",
+            "name": "tomater, krossade"
+        },
+        {
+            "amount": "2",
+            "unit": "burkar",
+            "name": "vita bönor"
+        },
+        {
+            "amount": "2",
+            "unit": "tärningar",
+            "name": "buljong, kött"
+        },
+        {
+            "amount": "3",
+            "unit": "st",
+            "name": "chili, röd"
+        },
+        {
+            "amount": "1",
+            "unit": "nypa",
+            "name": "oregano"
+        },
+        {
+            "amount": "1",
+            "unit": "nypa",
+            "name": "chilipulver"
+        },
+        {
+            "amount": "1",
+            "unit": "nypa",
+            "name": "cayennepeppar"
+        },
+        {
+            "amount": "1",
+            "unit": "par",
+            "name": "soltorkade tomater"
+        },
+        {
+            "amount": "16",
+            "unit": "st",
+            "name": "oliver"
+        },
+        {
+            "amount": "100",
+            "unit": "g",
+            "name": "sallad"
+        }
+    ],
+    "servings": {
+        "amount": "4",
+        "unit": "port"
+    },
+    "attributes": "Nötkött, Huvudrätt, Budget, Lättlagat"
+}

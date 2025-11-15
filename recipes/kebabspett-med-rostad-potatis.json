@@ -1,0 +1,119 @@
+{
+    "title": "Kebabspett med Rostad Potatis",
+    "steps": [
+        "Sätt ugnen på 200 grader.",
+        "Tvätta potatisen och dela dem i halvor. Olja ett bakplåtspapper och lägg ut potatisen, krydda med örtsalt och peppar. Rosta i ca 30 min.",
+        "Lägg träpinnarna i vatten. Skala och finhacka lök och vitlök, blanda med färsen och tillsätt örtsalt, spiskummin, curry, sambal oelek och matyoghurt. Forma färsen på 8 pinnar.",
+        "Maka ihop potatisen lite och lägg spetten på plåten, låt dem steka i ca 15 min eller tills innertemperaturen är 75 grader.",
+        "Hacka gurkan och blanda ihop med resten av ingredienserna i tzatzikin.",
+        "Servera med citronklyftor.",
+        "Från dalakassen,"
+    ],
+    "ingredients": [
+        {
+            "amount": "Rostad",
+            "unit": "potatis",
+            "name": ""
+        },
+        {
+            "amount": "1",
+            "unit": "kg",
+            "name": "potatis"
+        },
+        {
+            "amount": "2",
+            "unit": "msk",
+            "name": "olivolja"
+        },
+        {
+            "amount": "1",
+            "unit": "tsk",
+            "name": "örtsalt"
+        },
+        {
+            "amount": "1",
+            "unit": "krm",
+            "name": "svartpeppar, grovm."
+        },
+        {
+            "amount": "1",
+            "unit": "st",
+            "name": "lök, gul"
+        },
+        {
+            "amount": "3",
+            "unit": "klyftor",
+            "name": "vitlök"
+        },
+        {
+            "amount": "600",
+            "unit": "g",
+            "name": "nötfärs"
+        },
+        {
+            "amount": "1",
+            "unit": "tsk",
+            "name": "örtsalt"
+        },
+        {
+            "amount": "1",
+            "unit": "tsk",
+            "name": "spiskummin"
+        },
+        {
+            "amount": "2",
+            "unit": "tsk",
+            "name": "curry"
+        },
+        {
+            "amount": "1/2",
+            "unit": "tsk",
+            "name": "sambal oelek"
+        },
+        {
+            "amount": "1",
+            "unit": "dl",
+            "name": "matyoghurt"
+        },
+        {
+            "amount": "1/2",
+            "unit": "st",
+            "name": "gurka"
+        },
+        {
+            "amount": "1",
+            "unit": "dl",
+            "name": "matyoghurt"
+        },
+        {
+            "amount": "2",
+            "unit": "klyftor",
+            "name": "vitlök"
+        },
+        {
+            "amount": "1",
+            "unit": "krm",
+            "name": "salt"
+        },
+        {
+            "amount": "1",
+            "unit": "krm",
+            "name": "örtsalt"
+        },
+        {
+            "amount": "1",
+            "unit": "nypa",
+            "name": "svartpeppar, grovm."
+        },
+        {
+            "amount": "1",
+            "unit": "st",
+            "name": "citron"
+        }
+    ],
+    "servings": {
+        "amount": "4",
+        "unit": "port"
+    },
+    "attributes": "Köttfärs, Huvudrätt, Lättlagat"
+}

@@ -1,0 +1,84 @@
+{
+    "title": "Saffranspannkaka",
+    "steps": [
+        "Koka upp risgryn, vatten och salt. Låt sjuda sakta under tätt lock i 10 min.",
+        "Späd sedan med grädda och mjölk. Koka under lock på låg värme i 30-40min.",
+        "Smörj en ugnsform (generöst).",
+        "Skålla, skala och hacka mandeln, häll den i gröten.",
+        "Blanda ner saffran, socker/honung, stött kardemumma och mald kanel.",
+        "Sätt ugnen på 200º.",
+        "När gröten svalnat är det dags att röra ner äggen.",
+        "(Späd med mjölk om gröten verkar för tjock).",
+        "Häll smeten i ett 2-3cm tjockt lager i den smorda formen.",
+        "Grädda i 200º i 25-30min.",
+        "Serveras ljummen med lite grädde och salmbärssylt.",
+        "(Den kan ljummas i 175º i ca 15min, går även bra att frysa)."
+    ],
+    "ingredients": [
+        {
+            "amount": "1",
+            "unit": "dl",
+            "name": "grötris"
+        },
+        {
+            "amount": "2",
+            "unit": "dl",
+            "name": "vatten"
+        },
+        {
+            "amount": "1",
+            "unit": "krm",
+            "name": "salt"
+        },
+        {
+            "amount": "3",
+            "unit": "dl",
+            "name": "grädde, visp"
+        },
+        {
+            "amount": "5",
+            "unit": "dl",
+            "name": "mjölk, standard"
+        },
+        {
+            "amount": "50",
+            "unit": "g",
+            "name": "mandel"
+        },
+        {
+            "amount": "1/2",
+            "unit": "g",
+            "name": "saffran"
+        },
+        {
+            "amount": "3/4",
+            "unit": "dl",
+            "name": "socker"
+        },
+        {
+            "amount": "1",
+            "unit": "krm",
+            "name": "kardemumma"
+        },
+        {
+            "amount": "1",
+            "unit": "krm",
+            "name": "kanel, malen"
+        },
+        {
+            "amount": "4",
+            "unit": "st",
+            "name": "ägg"
+        },
+        {
+            "amount": "1",
+            "unit": "dl",
+            "name": "mjölk, standard"
+        }
+    ],
+    "servings": {
+        "amount": "4",
+        "unit": "port"
+    },
+    "attributes": "Övrigt, Efterrätt, Lättlagat, Fest"
+}

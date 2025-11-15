@@ -1,0 +1,88 @@
+{
+    "title": "Kryddig Bulgur med Lammfärs och Yoghurtsås",
+    "steps": [
+        "1. Koka bulgur enligt beskrivningen på paketet. Spola sedan med kallt vatten och låt rinna av i ett durkslag.",
+        "2. Dela blomkålen i små buketter. Fräs lammfärsen tillsammans med garam masala och gurkmeja i smör i en stor stekpanna. Lägg i grönsakerna och krydda med salt och peppar. Fräs färsen och grönsakerna i ca 4 minuter eller tills färsen är genomstekt och grönsakerna är lagom krispiga.",
+        "3. Gör såsen genom att blanda yoghurten med vitlök och mynta.",
+        "4. Blanda till sist ner kokt bulgur i pannan och se till att allt blir varmt. Servera med hackad koriander, persilja och yoghurtsås.",
+        "Från:",
+        "http://www.tasteline.com/Recept/kryddig_bulgur_med_lammfars_och_yoghurtsas"
+    ],
+    "ingredients": [
+        {
+            "amount": "400",
+            "unit": "g",
+            "name": "lammfärs"
+        },
+        {
+            "amount": "2",
+            "unit": "st",
+            "name": "morötter"
+        },
+        {
+            "amount": "2",
+            "unit": "dl",
+            "name": "purjolök"
+        },
+        {
+            "amount": "1/2",
+            "unit": "huvud",
+            "name": "blomkål"
+        },
+        {
+            "amount": "2",
+            "unit": "tsk",
+            "name": "garam masala"
+        },
+        {
+            "amount": "1",
+            "unit": "tsk",
+            "name": "gurkmeja"
+        },
+        {
+            "amount": "2",
+            "unit": "msk",
+            "name": "smör"
+        },
+        {
+            "amount": "1",
+            "unit": "tsk",
+            "name": "salt"
+        },
+        {
+            "amount": "2",
+            "unit": "msk",
+            "name": "koriander"
+        },
+        {
+            "amount": "2",
+            "unit": "msk",
+            "name": "persilja"
+        },
+        {
+            "amount": "2",
+            "unit": "dl",
+            "name": "bulgur"
+        },
+        {
+            "amount": "2",
+            "unit": "dl",
+            "name": "yoghurt"
+        },
+        {
+            "amount": "2",
+            "unit": "klyftor",
+            "name": "vitlök"
+        },
+        {
+            "amount": "2",
+            "unit": "tsk",
+            "name": "mynta"
+        }
+    ],
+    "servings": {
+        "amount": "4",
+        "unit": "port"
+    },
+    "attributes": "Lammkött, Huvudrätt, Lättlagat"
+}

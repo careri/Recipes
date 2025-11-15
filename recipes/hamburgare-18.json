@@ -1,0 +1,64 @@
+{
+    "title": "Hamburgare",
+    "steps": [
+        "Salta å peppra vid stekning",
+        "Krydda såsen, paprikapulver, chilipulver & citronpeppar"
+    ],
+    "ingredients": [
+        {
+            "amount": "500",
+            "unit": "g",
+            "name": "nötfärs"
+        },
+        {
+            "amount": "1",
+            "unit": "st",
+            "name": "ägg"
+        },
+        {
+            "amount": "3",
+            "unit": "msk",
+            "name": "mjöl, dinkel"
+        },
+        {
+            "amount": "1",
+            "unit": "st",
+            "name": "chili, röd"
+        },
+        {
+            "amount": "1",
+            "unit": "st",
+            "name": "scharlottenlök"
+        },
+        {
+            "amount": "2",
+            "unit": "klyftor",
+            "name": "vitlök"
+        },
+        {
+            "amount": "1",
+            "unit": "msk",
+            "name": "dijonsenap"
+        },
+        {
+            "amount": "3",
+            "unit": "droppar",
+            "name": "marinad"
+        },
+        {
+            "amount": "1",
+            "unit": "klyfta",
+            "name": "vitlök"
+        },
+        {
+            "amount": "1",
+            "unit": "dl",
+            "name": "gräddfil"
+        }
+    ],
+    "servings": {
+        "amount": "4",
+        "unit": "port"
+    },
+    "attributes": "Köttfärs, Huvudrätt, Budget, Lättlagat"
+}

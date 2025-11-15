@@ -1,0 +1,84 @@
+{
+    "title": "Fläskfilé med Senapssås",
+    "steps": [
+        "Putsa och skär fläskfilén i ca 1 cm tjocka skivor. Skala och skär lökarna i bitar. Skölj och tärna squashen. Koka upp köttbuljong, lättöl, soja, salt, peppar och kryddnejlikor i traktörpanna eller gryta. Lägg i squash och kött och låt småkoka i ca 10 minuter. Gör under tiden senapssåsen. Blanda kesella med senap, vatten, salt och kryddkrasse. Servera grytan med såsen och bröd.",
+        "Från ica.se"
+    ],
+    "ingredients": [
+        {
+            "amount": "400",
+            "unit": "g",
+            "name": "fläskfile"
+        },
+        {
+            "amount": "1",
+            "unit": "st",
+            "name": "lök, gul"
+        },
+        {
+            "amount": "1",
+            "unit": "st",
+            "name": "squash"
+        },
+        {
+            "amount": "4",
+            "unit": "dl",
+            "name": "buljong, kött"
+        },
+        {
+            "amount": "1",
+            "unit": "st",
+            "name": "öl, lätt"
+        },
+        {
+            "amount": "1",
+            "unit": "msk",
+            "name": "soja"
+        },
+        {
+            "amount": "1",
+            "unit": "tsk",
+            "name": "salt"
+        },
+        {
+            "amount": "1",
+            "unit": "krm",
+            "name": "svartpeppar"
+        },
+        {
+            "amount": "4",
+            "unit": "st",
+            "name": "kryddnejlika"
+        },
+        {
+            "amount": "2",
+            "unit": "dl",
+            "name": "kesella"
+        },
+        {
+            "amount": "2",
+            "unit": "msk",
+            "name": "senap"
+        },
+        {
+            "amount": "2",
+            "unit": "msk",
+            "name": "vatten"
+        },
+        {
+            "amount": "2",
+            "unit": "krm",
+            "name": "salt"
+        },
+        {
+            "amount": "2",
+            "unit": "msk",
+            "name": "kryddkrasse"
+        }
+    ],
+    "servings": {
+        "amount": "4",
+        "unit": "port"
+    },
+    "attributes": "Fläskkött, Huvudrätt, Lättlagat"
+}

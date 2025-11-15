@@ -1,0 +1,48 @@
+{
+    "title": "Pasta med Chili (syrran)",
+    "steps": [
+        "Koka pasta.",
+        "Hetta upp en stekpanna.",
+        "Hacka chili, ta ur kärnor.",
+        "Pressa/hacka vitlök.",
+        "Häll i olivolja i stekpannan.",
+        "Lägg i chili och vitlök.",
+        "Hacka löken och lägg i.",
+        "Hacka tomat.",
+        "Låt stå tills det verkar klart.",
+        "Häll i pasta och hackad tomat.",
+        "Låt stå en kort stund."
+    ],
+    "ingredients": [
+        {
+            "amount": "1",
+            "unit": "msk",
+            "name": "olivolja"
+        },
+        {
+            "amount": "5",
+            "unit": "klyftor",
+            "name": "vitlök"
+        },
+        {
+            "amount": "1",
+            "unit": "st",
+            "name": "chili, gul"
+        },
+        {
+            "amount": "1",
+            "unit": "st",
+            "name": "scharlottenlök"
+        },
+        {
+            "amount": "1",
+            "unit": "st",
+            "name": "tomat"
+        }
+    ],
+    "servings": {
+        "amount": "4",
+        "unit": "port"
+    },
+    "attributes": "Grönsaker, Huvudrätt, Budget, Lättlagat, Vegetariska"
+}

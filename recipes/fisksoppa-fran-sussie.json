@@ -1,0 +1,123 @@
+{
+    "title": "Fisksoppa från Sussie",
+    "steps": [
+        "Rör ihop aiolin och ställ kallt.",
+        "Låt fisken tina nästan helt.",
+        "Hacka löken och fräs på den i kastrullen så att den får lite färg.",
+        "Tillsätt tomatkross, tomatpuré, vatten, buljongtärningar och kryddor. Koka under lock 10 min.",
+        "Skär paprikan och fisken i lagom små bitar, lägg i paprika och fisk och låt sjuda under lock i 5 min.",
+        "Ta av kastrullen från plattan och lägg i kräftstjärtar och musslor, låt dem bli varma."
+    ],
+    "ingredients": [
+        {
+            "amount": "300",
+            "unit": "g",
+            "name": "torskfile"
+        },
+        {
+            "amount": "1",
+            "unit": "st",
+            "name": "lök, gul"
+        },
+        {
+            "amount": "1,5",
+            "unit": "msk",
+            "name": "rapsolja"
+        },
+        {
+            "amount": "1",
+            "unit": "burk",
+            "name": "tomater, krossade"
+        },
+        {
+            "amount": "2",
+            "unit": "msk",
+            "name": "tomatpuré"
+        },
+        {
+            "amount": "7,5",
+            "unit": "dl",
+            "name": "vatten"
+        },
+        {
+            "amount": "2",
+            "unit": "tärningar",
+            "name": "buljong, fisk"
+        },
+        {
+            "amount": "1",
+            "unit": "st",
+            "name": "lagerblad"
+        },
+        {
+            "amount": "0,67",
+            "unit": "tsk",
+            "name": "timjan"
+        },
+        {
+            "amount": "1",
+            "unit": "klyfta",
+            "name": "vitlök"
+        },
+        {
+            "amount": "1",
+            "unit": "st",
+            "name": "paprika, grön"
+        },
+        {
+            "amount": "1",
+            "unit": "st",
+            "name": "paprika, röd"
+        },
+        {
+            "amount": "1",
+            "unit": "burk",
+            "name": "musslor"
+        },
+        {
+            "amount": "200",
+            "unit": "g",
+            "name": "kräftstjärtar"
+        },
+        {
+            "amount": "1",
+            "unit": "nypa",
+            "name": "saffran"
+        },
+        {
+            "amount": "2",
+            "unit": "dl",
+            "name": "kesella"
+        },
+        {
+            "amount": "1",
+            "unit": "dl",
+            "name": "filmjölk, standard"
+        },
+        {
+            "amount": "1",
+            "unit": "klyfta",
+            "name": "vitlök"
+        },
+        {
+            "amount": "1",
+            "unit": "msk",
+            "name": "majonnäs"
+        },
+        {
+            "amount": "1",
+            "unit": "nypa",
+            "name": "salt"
+        },
+        {
+            "amount": "1",
+            "unit": "nypa",
+            "name": "svartpeppar, grovm."
+        }
+    ],
+    "servings": {
+        "amount": "4",
+        "unit": "port"
+    },
+    "attributes": "Fisk, Huvudrätt, Lättlagat"
+}

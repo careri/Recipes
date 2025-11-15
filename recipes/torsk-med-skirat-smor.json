@@ -1,0 +1,60 @@
+{
+    "title": "Torsk med Skirat Smör",
+    "steps": [
+        "Värm ugnen till 200 grader.",
+        "Koka potatis.",
+        "Koka ägg.",
+        "Salta och peppra under tiden fisken.",
+        "Sätt en stor ugnsfast stekpanna på värme.",
+        "Lägg i en msk smör och fiskbitarna. Man kan vika ihop fileér så att fisken får plats i pannan.",
+        "Sätt in fisken i ugnen. Låt stå cirka 15 minuter. Då bör det vara klart ungefär samtidigt som potatisen (koktid 30 minuter, beroende på storlek).",
+        "Skira resterande smör i en kastrull, klyfta en citron, skala och riv pepparroten fint och servera."
+    ],
+    "ingredients": [
+        {
+            "amount": "400",
+            "unit": "g",
+            "name": "torskfile"
+        },
+        {
+            "amount": "4",
+            "unit": "krm",
+            "name": "salt"
+        },
+        {
+            "amount": "2",
+            "unit": "krm",
+            "name": "vitpeppar"
+        },
+        {
+            "amount": "5",
+            "unit": "cm",
+            "name": "pepparrot"
+        },
+        {
+            "amount": "150",
+            "unit": "g",
+            "name": "smör"
+        },
+        {
+            "amount": "4",
+            "unit": "klyftor",
+            "name": "citron"
+        },
+        {
+            "amount": "12",
+            "unit": "st",
+            "name": "potatis"
+        },
+        {
+            "amount": "4",
+            "unit": "st",
+            "name": "ägg"
+        }
+    ],
+    "servings": {
+        "amount": "4",
+        "unit": "port"
+    },
+    "attributes": "Fisk, Huvudrätt, Lättlagat"
+}

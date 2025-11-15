@@ -1,0 +1,82 @@
+{
+    "title": "Ost- & Skinkmuffins",
+    "steps": [
+        "1. Blanda mjölsorterna, bakpulver, salt och chili ordentligt i en skål. Tillsätt riven ost och riven skinka.",
+        "2. Blanda ägg, mjöl och rapsolja i en annan skål. Häll över äggblandningen i mjölblandningen. Blanda noggrant.",
+        "3. Fördela fyllningen i muffinsformar (helst i en muffinsplåt, annars dubbla formar). Garnera med lite riven ost och smulad oregano.",
+        "4. Grädda i ugnen ca 15 min, 200°C.",
+        "ca 200kcal/st"
+    ],
+    "ingredients": [
+        {
+            "amount": "3",
+            "unit": "dl",
+            "name": "vetemjöl"
+        },
+        {
+            "amount": "1",
+            "unit": "dl",
+            "name": "mjöl, graham"
+        },
+        {
+            "amount": "1",
+            "unit": "dl",
+            "name": "rågsikt"
+        },
+        {
+            "amount": "2",
+            "unit": "tsk",
+            "name": "bakpulver"
+        },
+        {
+            "amount": "1/2",
+            "unit": "tsk",
+            "name": "salt"
+        },
+        {
+            "amount": "1",
+            "unit": "tsk",
+            "name": "chilipulver"
+        },
+        {
+            "amount": "100",
+            "unit": "g",
+            "name": "ost, riven"
+        },
+        {
+            "amount": "1",
+            "unit": "hg",
+            "name": "skinka, rökt"
+        },
+        {
+            "amount": "2",
+            "unit": "st",
+            "name": "ägg"
+        },
+        {
+            "amount": "2,25",
+            "unit": "dl",
+            "name": "mjölk"
+        },
+        {
+            "amount": "3/4",
+            "unit": "dl",
+            "name": "rapsolja"
+        },
+        {
+            "amount": "10",
+            "unit": "g",
+            "name": "ost, riven"
+        },
+        {
+            "amount": "1",
+            "unit": "tsk",
+            "name": "oregano"
+        }
+    ],
+    "servings": {
+        "amount": "12",
+        "unit": "port"
+    },
+    "attributes": "Övrigt, Budget, Lättlagat, Bakning"
+}

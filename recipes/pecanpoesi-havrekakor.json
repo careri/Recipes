@@ -1,0 +1,76 @@
+{
+    "title": "Pecanpoesi, Havrekakor",
+    "steps": [
+        "1.Förvärm ugnen till 200 °C. Blanda mjöl, bakpulver, smör, socker, havregryn och salt så att konsistensen blir ungefär som brödsmulor. Tillsätt sirap, nötter samt vatten och blanda samman till en deg.",
+        "2. Rulla försiktigt degen i antingen en lång rulle eller i flera små (ca 5-7 cm i diameter). Lägg degrullarna i kylskåpet i 30 minuter. Skär sedan degen i c:a 1 cm tjocka skivor och lägg dem på en plåt med bakpapper på.",
+        "3. Sätt i kakorna i ugnen och sänk temperaturen till 175 °C. Grädda kakorna mitt i ugnen i 10-15 min. Ta ut dem och låt dem svalna på ett ugnsgaller.",
+        "Från Göteborgskex hemsida"
+    ],
+    "ingredients": [
+        {
+            "amount": "5,5",
+            "unit": "dl",
+            "name": "havregryn"
+        },
+        {
+            "amount": "4",
+            "unit": "dl",
+            "name": "vetemjöl"
+        },
+        {
+            "amount": "150",
+            "unit": "g",
+            "name": "smör"
+        },
+        {
+            "amount": "1/2",
+            "unit": "dl",
+            "name": "socker"
+        },
+        {
+            "amount": "3/4",
+            "unit": "dl",
+            "name": "farinsocker"
+        },
+        {
+            "amount": "1/2",
+            "unit": "dl",
+            "name": "sirap, ljus"
+        },
+        {
+            "amount": "1,5",
+            "unit": "dl",
+            "name": "mandel"
+        },
+        {
+            "amount": "1,25",
+            "unit": "dl",
+            "name": "pecannötter"
+        },
+        {
+            "amount": "2",
+            "unit": "dl",
+            "name": "hasselnötter"
+        },
+        {
+            "amount": "2",
+            "unit": "tsk",
+            "name": "bakpulver"
+        },
+        {
+            "amount": "1/4",
+            "unit": "tsk",
+            "name": "salt"
+        },
+        {
+            "amount": "1/2",
+            "unit": "dl",
+            "name": "vatten"
+        }
+    ],
+    "servings": {
+        "amount": "20",
+        "unit": "st"
+    },
+    "attributes": "Övrigt, Lättlagat, Fest, Bakning"
+}

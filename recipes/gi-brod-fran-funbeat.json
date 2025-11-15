@@ -1,0 +1,51 @@
+{
+    "title": "Gi-bröd från Funbeat",
+    "steps": [
+        "Hela och krossade linfrön till garnering",
+        "Ca 4 bullar",
+        "Blanda alla torra ingredienser. Blanda sedan i ägg och kesella.",
+        "Klicka ut på en plåt med bakplåtspapper och forma till bullar. Strö över linfrön och grädda i ugnen i ca 10 min i 225grader."
+    ],
+    "ingredients": [
+        {
+            "amount": "1",
+            "unit": "dl",
+            "name": "mjöl dinkel fullkorn"
+        },
+        {
+            "amount": "1",
+            "unit": "dl",
+            "name": "mjöl, dinkel"
+        },
+        {
+            "amount": "1",
+            "unit": "tsk",
+            "name": "bakpulver"
+        },
+        {
+            "amount": "1/2",
+            "unit": "tsk",
+            "name": "salt"
+        },
+        {
+            "amount": "1",
+            "unit": "msk",
+            "name": "linfrö, helt"
+        },
+        {
+            "amount": "2",
+            "unit": "dl",
+            "name": "kesella"
+        },
+        {
+            "amount": "2",
+            "unit": "st",
+            "name": "ägg"
+        }
+    ],
+    "servings": {
+        "amount": "4",
+        "unit": "port"
+    },
+    "attributes": "Övrigt, Lättlagat, Bakning"
+}

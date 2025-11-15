@@ -1,0 +1,69 @@
+{
+    "title": "Grillad Lax med Chilismör",
+    "steps": [
+        "Ta bort ryggbenet från laxen (om sådant finns). Skåra sidorna med 3 cm mellanrum. Lägg den i en lånpanna på folie.",
+        "Vispa ihop lök, citron, olja svartpeppar, timjan, salt. Pensla laxen med marinaden. Låt stå i ca ½-timme.",
+        "Hetta upp grillen.",
+        "Blanda ihop tomatsmöret, ha i chilisåsen lite i taget och vispa med elvisp. Ha i chilisås efter smak.",
+        "Bred tomatsmöret över laxen, sätt in i ugnen ca 10 min, beror på tjocklek.",
+        "Ta ut laxen, bred på mer smör.",
+        "Servera med kokt potatis, resterande tomatsmör, haricots verts, broccoli."
+    ],
+    "ingredients": [
+        {
+            "amount": "1",
+            "unit": "kg",
+            "name": "lax"
+        },
+        {
+            "amount": "2",
+            "unit": "tsk",
+            "name": "lök, gul"
+        },
+        {
+            "amount": "1",
+            "unit": "msk",
+            "name": "citron"
+        },
+        {
+            "amount": "2,5",
+            "unit": "msk",
+            "name": "rapsolja"
+        },
+        {
+            "amount": "1",
+            "unit": "krm",
+            "name": "svartpeppar, grovm."
+        },
+        {
+            "amount": "1",
+            "unit": "krm",
+            "name": "timjan"
+        },
+        {
+            "amount": "1",
+            "unit": "tsk",
+            "name": "salt"
+        },
+        {
+            "amount": "125",
+            "unit": "g",
+            "name": "smör"
+        },
+        {
+            "amount": "1/2",
+            "unit": "tsk",
+            "name": "salt"
+        },
+        {
+            "amount": "2",
+            "unit": "msk",
+            "name": "chilisås"
+        }
+    ],
+    "servings": {
+        "amount": "4",
+        "unit": "port"
+    },
+    "attributes": "Fisk, Huvudrätt, Lättlagat, Fest"
+}

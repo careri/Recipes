@@ -1,0 +1,65 @@
+{
+    "title": "Kycklingfilé med Bönguacamole",
+    "steps": [
+        "1. Finhacka vitlöken, rödlöken och jalapenon. Kärna ur tomaten och skär den i små bitar. Skala gurkan och skär den fint. Skär avokadon i små bitar och blanda sedan ner minifraiche, sköljda bönor och smaka av med salt.",
+        "2. Stek eller grilla kycklingfilén och servera med bönguacamole.",
+        "Näringsvärde per portion:",
+        "Energi: 304 kcal",
+        "Kolhydrater: 13 g",
+        "Protein: 40 g",
+        "Fett: 10 g",
+        "Från tasteline.com"
+    ],
+    "ingredients": [
+        {
+            "amount": "4",
+            "unit": "st",
+            "name": "kycklingfile"
+        },
+        {
+            "amount": "2",
+            "unit": "st",
+            "name": "avokado"
+        },
+        {
+            "amount": "1/2",
+            "unit": "st",
+            "name": "lök, röd"
+        },
+        {
+            "amount": "2",
+            "unit": "st",
+            "name": "tomat"
+        },
+        {
+            "amount": "10",
+            "unit": "cm",
+            "name": "gurka"
+        },
+        {
+            "amount": "1",
+            "unit": "msk",
+            "name": "chili, röd"
+        },
+        {
+            "amount": "2",
+            "unit": "msk",
+            "name": "creme fraiche"
+        },
+        {
+            "amount": "1",
+            "unit": "klyfta",
+            "name": "vitlök"
+        },
+        {
+            "amount": "3",
+            "unit": "dl",
+            "name": "svarta bönor"
+        }
+    ],
+    "servings": {
+        "amount": "4",
+        "unit": "port"
+    },
+    "attributes": "Kyckling, Huvudrätt, Lättlagat"
+}

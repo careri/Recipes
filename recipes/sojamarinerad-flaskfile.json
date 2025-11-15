@@ -1,0 +1,73 @@
+{
+    "title": "Sojamarinerad Fläskfilé",
+    "steps": [
+        "1. Koka riset enligt anvisningen på förpackningen.",
+        "2. Putsa och strimla fläskfilén. Lägg i en skål och blanda med soja och socker.",
+        "3. Koka upp vatten och häll över sugar snaps och edamamebönor. Låt stå 1 min, häll av och skölj i kallt vatten. Skär eventuellt sugar snapsen på snedden.",
+        "4. Skala morötterna. Fortsätt att skala långa strimlor med potatisskalaren.",
+        "5. Stek fläskfilén i 1 msk olja i het panna 4 min.",
+        "6. Blanda morötter, sugar snaps, edamamebönor, 1 msk olja, vinäger och salt. Servera med ris och kött. Strössla över sesamfrön."
+    ],
+    "ingredients": [
+        {
+            "amount": "3",
+            "unit": "dl",
+            "name": "ris, basmati"
+        },
+        {
+            "amount": "500",
+            "unit": "g",
+            "name": "fläskfile"
+        },
+        {
+            "amount": "2",
+            "unit": "msk",
+            "name": "soja"
+        },
+        {
+            "amount": "1",
+            "unit": "msk",
+            "name": "strösocker"
+        },
+        {
+            "amount": "150",
+            "unit": "g",
+            "name": "sockerärtor"
+        },
+        {
+            "amount": "1",
+            "unit": "dl",
+            "name": "bönor, blandade"
+        },
+        {
+            "amount": "3",
+            "unit": "st",
+            "name": "morötter"
+        },
+        {
+            "amount": "2",
+            "unit": "msk",
+            "name": "rapsolja"
+        },
+        {
+            "amount": "2",
+            "unit": "tsk",
+            "name": "vinäger, vitvin"
+        },
+        {
+            "amount": "2",
+            "unit": "krm",
+            "name": "salt"
+        },
+        {
+            "amount": "1",
+            "unit": "msk",
+            "name": "sesamfrön"
+        }
+    ],
+    "servings": {
+        "amount": "4",
+        "unit": "port"
+    },
+    "attributes": "Fläskkött, Huvudrätt, Lättlagat"
+}

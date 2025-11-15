@@ -1,0 +1,60 @@
+{
+    "title": "Pepparrotskorv",
+    "steps": [
+        "Koka upp vatten i en kastrull med Lagerblad, Peppar & Salt.",
+        "Sätt potatisen på kokning.",
+        "Skär korven i tjocka skivor, ca 4 cm.",
+        "Lägg i korven, låt koka upp, stäng sedan av värmen på spisen.",
+        "Fixa sedan såsen:",
+        "Hetta upp smör i en kastrull, tillsätt en del av pepparroten så att den kan stekas med i smöret lite snabbt.",
+        "Häll i maizenamjölet så att det blir lagom konsistens.",
+        "Späd sedan med korvspad (då korven kokat klart) och smaka ev med pepparrot (om det behövs)."
+    ],
+    "ingredients": [
+        {
+            "amount": "16",
+            "unit": "st",
+            "name": "potatis"
+        },
+        {
+            "amount": "800",
+            "unit": "g",
+            "name": "falukorv"
+        },
+        {
+            "amount": "2",
+            "unit": "st",
+            "name": "lagerblad"
+        },
+        {
+            "amount": "4",
+            "unit": "st",
+            "name": "svartpeppar, hel"
+        },
+        {
+            "amount": "1",
+            "unit": "nypa",
+            "name": "salt"
+        },
+        {
+            "amount": "2",
+            "unit": "msk",
+            "name": "pepparrot"
+        },
+        {
+            "amount": "2",
+            "unit": "msk",
+            "name": "smör"
+        },
+        {
+            "amount": "1",
+            "unit": "msk",
+            "name": "maizena"
+        }
+    ],
+    "servings": {
+        "amount": "4",
+        "unit": "port"
+    },
+    "attributes": "Korv, Huvudrätt, Budget, Lättlagat"
+}

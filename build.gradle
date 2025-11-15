@@ -1,0 +1,69 @@
+plugins {
+    id 'base'
+}
+
+task setupGae(type: Exec) {
+    group = 'setup'
+    description = 'Set up Python virtual environment and install dependencies for Google App Engine'
+    workingDir 'recipes-app'
+    commandLine 'sh', '-c', '''
+        if [ ! -d "venv" ]; then
+            echo "Creating Python virtual environment..."
+            python3 -m venv venv
+        fi
+        echo "Activating virtual environment and installing dependencies..."
+        source venv/bin/activate && pip install -r requirements.txt
+        echo "Setup complete!"
+    '''
+}
+
+task runLocal(type: Exec) {
+    dependsOn setupGae
+    group = 'application'
+    description = 'Run local Google App Engine development server'
+    workingDir 'recipes-app'
+    commandLine 'sh', '-c', '''
+        source venv/bin/activate
+        export BUCKET_NAME=recipes-storage-bucket
+        export GOOGLE_CLOUD_PROJECT=carlkatrin-com
+        echo "Starting Flask development server..."
+        echo "Frontend: http://localhost:8080"
+        echo "API: http://localhost:8080/api/recipes"
+        python main.py
+    '''
+}
+
+task deployGae(type: Exec) {
+    group = 'deployment'
+    description = 'Deploy application to Google App Engine'
+    commandLine './deploy-gae.sh'
+}
+
+task migrateRecipes(type: Exec) {
+    group = 'deployment'
+    description = 'Migrate existing recipes to Google Cloud Storage'
+    commandLine './migrate-recipes.sh'
+}
+
+task stopLocal(type: Exec) {
+    group = 'application'
+    description = 'Stop local development server'
+    commandLine 'pkill', '-f', 'python main.py'
+}
+
+task cleanGae(type: Exec) {
+    group = 'cleanup'
+    description = 'Clean up Google App Engine development environment'
+    workingDir 'recipes-app'
+    commandLine 'sh', '-c', '''
+        echo "Removing virtual environment..."
+        rm -rf venv
+        echo "Cleanup complete!"
+    '''
+}
+
+task cleanUp {
+    dependsOn cleanGae
+    group = 'cleanup'
+    description = 'Clean up all development artifacts'
+}

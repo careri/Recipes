@@ -1,0 +1,55 @@
+{
+    "title": "Tortillatårta",
+    "steps": [
+        "Blanda philadelphiaosten, creme fraiche och tacosås. Pressa ned vitlöken i blandningen. Rensa och dela kycklingen i små bitar blanda ned i röran ovan. Stek bacon och rör ned.",
+        "Ta fram en rund ugnsform med avtagbar kant och varva tortillabröd och fyllning. Börja och sluta med tortilla bröd. Toppa med ost. Servera med sallad",
+        "Ugn 225 grader i ca 20 minuter."
+    ],
+    "ingredients": [
+        {
+            "amount": "200",
+            "unit": "g",
+            "name": "färskost"
+        },
+        {
+            "amount": "2",
+            "unit": "dl",
+            "name": "creme fraiche"
+        },
+        {
+            "amount": "1",
+            "unit": "burk",
+            "name": "tacosås"
+        },
+        {
+            "amount": "2",
+            "unit": "klyftor",
+            "name": "vitlök"
+        },
+        {
+            "amount": "1",
+            "unit": "pkt",
+            "name": "bacon"
+        },
+        {
+            "amount": "1",
+            "unit": "pkt",
+            "name": "tortilla"
+        },
+        {
+            "amount": "2",
+            "unit": "dl",
+            "name": "ost"
+        },
+        {
+            "amount": "1",
+            "unit": "st",
+            "name": "kyckling, grillad"
+        }
+    ],
+    "servings": {
+        "amount": "4",
+        "unit": "port"
+    },
+    "attributes": "Kyckling, Huvudrätt, Lättlagat"
+}

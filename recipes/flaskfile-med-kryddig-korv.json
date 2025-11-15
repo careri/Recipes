@@ -1,0 +1,103 @@
+{
+    "title": "Fläskfilé med Kryddig Korv",
+    "steps": [
+        "1. Sätt ugnen på 125 grader. Krydda och bryn fläskfilén runt om i het panna. Stek färdig i ugnen till 68 grader innertemperatur, ca 25 min. Låt vila 10 min unuder folie.",
+        "2. Blanda yoghurten med senap och honung.",
+        "3. Gör i ordning bulgur eller couscous enligt förpackningen men byt ut vatten och salt mot grönsaksbuljong.",
+        "4. Fräs löken på medlevärme i olivoljan, tillsätt spenat efter en stund. Rör ner bulguren med oliver och korvskivor.",
+        "5. Skär upp köttet och lägg upp på tallrik med sås, citronklyftor och bulgur. Dekorera med timjan och stänk ev. över lite citronolja över.",
+        "Passar bra med 6424 2006 Santa Carolina Gran Reserva."
+    ],
+    "ingredients": [
+        {
+            "amount": "600",
+            "unit": "g",
+            "name": "fläskfile"
+        },
+        {
+            "amount": "1",
+            "unit": "tsk",
+            "name": "salt"
+        },
+        {
+            "amount": "1",
+            "unit": "krm",
+            "name": "svartpeppar"
+        },
+        {
+            "amount": "1",
+            "unit": "msk",
+            "name": "smör"
+        },
+        {
+            "amount": "4",
+            "unit": "dl",
+            "name": "bulgur"
+        },
+        {
+            "amount": "1",
+            "unit": "tärning",
+            "name": "buljong, grönsak"
+        },
+        {
+            "amount": "150",
+            "unit": "g",
+            "name": "spenat"
+        },
+        {
+            "amount": "1",
+            "unit": "st",
+            "name": "lök, röd"
+        },
+        {
+            "amount": "2",
+            "unit": "msk",
+            "name": "olivolja"
+        },
+        {
+            "amount": "20",
+            "unit": "st",
+            "name": "oliver, svarta"
+        },
+        {
+            "amount": "100",
+            "unit": "g",
+            "name": "chorizo"
+        },
+        {
+            "amount": "2",
+            "unit": "dl",
+            "name": "yoghurt, turkisk"
+        },
+        {
+            "amount": "1",
+            "unit": "msk",
+            "name": "senap, fransk"
+        },
+        {
+            "amount": "1",
+            "unit": "tsk",
+            "name": "honung"
+        },
+        {
+            "amount": "Till",
+            "unit": "maten",
+            "name": ""
+        },
+        {
+            "amount": "1",
+            "unit": "st",
+            "name": "citron"
+        },
+        {
+            "amount": "1",
+            "unit": "kruka",
+            "name": "timjan"
+        }
+    ],
+    "servings": {
+        "amount": "4",
+        "unit": "port"
+    },
+    "attributes": "Fläskkött, Huvudrätt, Lättlagat"
+}

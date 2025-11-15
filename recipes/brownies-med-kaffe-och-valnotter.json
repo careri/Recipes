@@ -1,0 +1,59 @@
+{
+    "title": "Brownies med Kaffe och Valnötter",
+    "steps": [
+        "Sätt ugnen på 175 grader. Smörj och bröa en bakform, cirka 20x30 cm, eller bottna den med bakplåtspapper.",
+        "Smält smöret. Bryt drygt hälften av chokladen i bitar och låt den smälta i det varma smöret. Rör också i sockret. Låt blandningen svalna lite.",
+        "Blanda mjöl, bakpulver och snabbkaffepulver i en skål. Hacka resterande choklad i små bitar och grovhacka valnötterna. Lägg chokladhacket och hälften av de hackade valnötterna i skålen.",
+        "Rör ner den avsvalnade smörblandningen i mjölblandningen. Tillsätt äggen ett i taget och blanda väl. Häll smeten i bakformen. Ta eventuellt en slickepott till hjälp för att få ut den jämnt i formen. Strö resten av valnötterna över kakan.",
+        "Grädda 20-25 minuter. Kakan ska inte vara helt torr inuti, känn med en nål.",
+        "Skär kakan i bitar, endera ganska stora av amerikansk typ eller små eleganta rutor.",
+        "Från: http://www.dn.se/mat-dryck/recept/brownies-med-kaffe-och-valnotter-1.325581"
+    ],
+    "ingredients": [
+        {
+            "amount": "100",
+            "unit": "g",
+            "name": "smör"
+        },
+        {
+            "amount": "100",
+            "unit": "g",
+            "name": "choklad, mörk"
+        },
+        {
+            "amount": "1,5",
+            "unit": "dl",
+            "name": "socker"
+        },
+        {
+            "amount": "1,5",
+            "unit": "dl",
+            "name": "vetemjöl"
+        },
+        {
+            "amount": "1",
+            "unit": "tsk",
+            "name": "bakpulver"
+        },
+        {
+            "amount": "1,5",
+            "unit": "msk",
+            "name": "kaffe, snabb"
+        },
+        {
+            "amount": "2",
+            "unit": "st",
+            "name": "ägg"
+        },
+        {
+            "amount": "100",
+            "unit": "g",
+            "name": "valnötter"
+        }
+    ],
+    "servings": {
+        "amount": "4",
+        "unit": "port"
+    },
+    "attributes": "Övrigt, Lättlagat, Fest, Bakning"
+}

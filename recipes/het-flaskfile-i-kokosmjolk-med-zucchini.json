@@ -1,0 +1,68 @@
+{
+    "title": "Het Fläskfilé i Kokosmjölk med Zucchini",
+    "steps": [
+        "Tillagning",
+        "1. Skär fläskfilé i skivor. Skär zucchinin i bitar, salladslöken i tunna skivor och finhacka vitlök.",
+        "2. Stek fläskfilé i oljan tills den fått färg. Tillsätt sedan lök, vitlök och chili, stek i två minuter och tillsätt zucchinibitar. Stek ytterligare fem minuter och smula i buljongtärning.",
+        "3. Häll i kokosmjölk och koka i 10-15 minuter. Riv i citronskal, rör runt.",
+        "Servera med basmatiris eller fullkornsnudlar.",
+        "http://www.tasteline.com/recept/Het_flaskfile_i_kokosmjolk_med_zucchini_och_citron"
+    ],
+    "ingredients": [
+        {
+            "amount": "500",
+            "unit": "g",
+            "name": "fläskfile"
+        },
+        {
+            "amount": "1",
+            "unit": "st",
+            "name": "zuccini"
+        },
+        {
+            "amount": "4",
+            "unit": "st",
+            "name": "salladslök"
+        },
+        {
+            "amount": "1",
+            "unit": "msk",
+            "name": "rapsolja"
+        },
+        {
+            "amount": "1",
+            "unit": "st",
+            "name": "chili, röd"
+        },
+        {
+            "amount": "1",
+            "unit": "burk",
+            "name": "kokosmjölk"
+        },
+        {
+            "amount": "1",
+            "unit": "st",
+            "name": "citron"
+        },
+        {
+            "amount": "1",
+            "unit": "tärning",
+            "name": "buljong, höns"
+        },
+        {
+            "amount": "1",
+            "unit": "st",
+            "name": "risnudlar"
+        },
+        {
+            "amount": "4",
+            "unit": "klyftor",
+            "name": "vitlök"
+        }
+    ],
+    "servings": {
+        "amount": "4",
+        "unit": "port"
+    },
+    "attributes": "Fläskkött, Huvudrätt, Budget, Lättlagat"
+}

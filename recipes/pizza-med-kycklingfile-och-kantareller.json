@@ -1,0 +1,76 @@
+{
+    "title": "Pizza med Kycklingfilé och Kantareller",
+    "steps": [
+        "Lägg tortillabörden på 2 plåtar.",
+        "Bred på tomatsås.",
+        "Stek kycklingfilén i i hälften av margarinet. Salta och peppra.",
+        "Kycklingköttet behöver inte vara riktigt genomstekt. Lägg köttet åt sidan.",
+        "Stek kantareller, lök och pressad vitlök i resten av margarinet.",
+        "Smaka av med lite muskot, timjan, salt och peppar.",
+        "Lägg allt det stekta ovanpå pizzan. Strö på ost.",
+        "Stek pizzorna ca 6-8 minuter i 225 grader.",
+        "Från viktklubb.se"
+    ],
+    "ingredients": [
+        {
+            "amount": "6",
+            "unit": "st",
+            "name": "tortilla"
+        },
+        {
+            "amount": "3",
+            "unit": "dl",
+            "name": "tomat"
+        },
+        {
+            "amount": "300",
+            "unit": "g",
+            "name": "kycklingfile"
+        },
+        {
+            "amount": "1,5",
+            "unit": "msk",
+            "name": "margarin"
+        },
+        {
+            "amount": "300",
+            "unit": "g",
+            "name": "kantareller"
+        },
+        {
+            "amount": "150",
+            "unit": "g",
+            "name": "rödlök"
+        },
+        {
+            "amount": "3",
+            "unit": "klyftor",
+            "name": "vitlök"
+        },
+        {
+            "amount": "1",
+            "unit": "nypa",
+            "name": "muskotnöt"
+        },
+        {
+            "amount": "1,5",
+            "unit": "tsk",
+            "name": "timjan"
+        },
+        {
+            "amount": "150",
+            "unit": "g",
+            "name": "cocktailtomater"
+        },
+        {
+            "amount": "225",
+            "unit": "g",
+            "name": "ost"
+        }
+    ],
+    "servings": {
+        "amount": "6",
+        "unit": "port"
+    },
+    "attributes": "Kyckling, Huvudrätt, Lättlagat"
+}

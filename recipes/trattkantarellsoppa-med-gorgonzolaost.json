@@ -1,0 +1,92 @@
+{
+    "title": "Trattkantarellsoppa med Gorgonzolaost",
+    "steps": [
+        "Från Tasteline:",
+        "Du kan själv göra svampmjöl av all torkad svamp i exempelvis mixer eller mortel. Förvaras i glasburk och används som smakförstärkare i soppor, såser och andra anrättningar.",
+        "1. Förkoka svampen i en gryta utan smör tills allt vatten avdunstat, salta lätt. Ta bort en fjärdedel av svampen och ställ den åt sidan. Tillsätt smör och hackad gul lök och låt svamp och lök steka en stund. Pudra över svampmjölet och vetemjölet, fyll på med varm kycklingbuljong och koka under omrörning. Låt sjuda i ca fem minuter.",
+        "2. Kör soppan i mixer tillsammans med kapris, gorgonzola och crème fraîche. Häll tillbaka soppan i grytan, koka upp och smaksätt med pressad citron, cayennepeppar, portvin och eventuellt lite mer salt.",
+        "3. Strimla rucolan, lägg ner den i soppan och låt sjuda någon minut. Fördela de sparade svamparna i varma sopptallrikar, ös upp soppan och garnera med färska basilikablad."
+    ],
+    "ingredients": [
+        {
+            "amount": "2",
+            "unit": "liter",
+            "name": "trattkantareller"
+        },
+        {
+            "amount": "60",
+            "unit": "g",
+            "name": "smör"
+        },
+        {
+            "amount": "1",
+            "unit": "st",
+            "name": "lök, gul"
+        },
+        {
+            "amount": "2",
+            "unit": "msk",
+            "name": "vetemjöl"
+        },
+        {
+            "amount": "1",
+            "unit": "liter",
+            "name": "buljong, kyckling"
+        },
+        {
+            "amount": "1",
+            "unit": "tsk",
+            "name": "kapris"
+        },
+        {
+            "amount": "50",
+            "unit": "g",
+            "name": "gorgonzola"
+        },
+        {
+            "amount": "2",
+            "unit": "msk",
+            "name": "creme fraiche"
+        },
+        {
+            "amount": "1/2",
+            "unit": "st",
+            "name": "citron"
+        },
+        {
+            "amount": "1",
+            "unit": "nypa",
+            "name": "cayennepeppar"
+        },
+        {
+            "amount": "1",
+            "unit": "nypa",
+            "name": "salt"
+        },
+        {
+            "amount": "1",
+            "unit": "kruka",
+            "name": "ruccolasallad"
+        },
+        {
+            "amount": "4",
+            "unit": "msk",
+            "name": "portvin"
+        },
+        {
+            "amount": "1",
+            "unit": "nypa",
+            "name": "basilika"
+        },
+        {
+            "amount": "2",
+            "unit": "tsk",
+            "name": "svampmjöl"
+        }
+    ],
+    "servings": {
+        "amount": "4",
+        "unit": "port"
+    },
+    "attributes": "Övrigt, Förrätt, Vegetariska, Fest"
+}

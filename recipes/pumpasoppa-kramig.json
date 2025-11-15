@@ -1,0 +1,64 @@
+{
+    "title": "Pumpasoppa, Krämig",
+    "steps": [
+        "Skär pumpan, schalotten- och vitlök i småbitar och koka dem mjuka i buljongen. Ca 15 min.",
+        "Tillsätt vitt vin, grädde, kryddor och låt allt koka upp. Mixa och sila soppan för att få den helt fri från pumpatrådar."
+    ],
+    "ingredients": [
+        {
+            "amount": "400",
+            "unit": "g",
+            "name": "pumpa"
+        },
+        {
+            "amount": "1",
+            "unit": "st",
+            "name": "scharlottenlök"
+        },
+        {
+            "amount": "1",
+            "unit": "klyfta",
+            "name": "vitlök"
+        },
+        {
+            "amount": "1",
+            "unit": "knippe",
+            "name": "timjan"
+        },
+        {
+            "amount": "2",
+            "unit": "dl",
+            "name": "buljong, kyckling"
+        },
+        {
+            "amount": "2",
+            "unit": "msk",
+            "name": "vitt vin"
+        },
+        {
+            "amount": "3",
+            "unit": "dl",
+            "name": "vispgrädde"
+        },
+        {
+            "amount": "1",
+            "unit": "nypa",
+            "name": "muskotnöt"
+        },
+        {
+            "amount": "1",
+            "unit": "nypa",
+            "name": "salt"
+        },
+        {
+            "amount": "1",
+            "unit": "nypa",
+            "name": "svartpeppar, grovm."
+        }
+    ],
+    "servings": {
+        "amount": "4",
+        "unit": "port"
+    },
+    "attributes": "Grönsaker, Huvudrätt, Lättlagat"
+}

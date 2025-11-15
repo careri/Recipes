@@ -1,0 +1,53 @@
+{
+    "title": "Pastagratäng med Kassler",
+    "steps": [
+        "Sätt ugnen på 225 grader.",
+        "Skär kasslern i små tärningar.",
+        "Blanda den kokta pastan, kassler, broccoli och valnötter i en smord, ugnssäker form.",
+        "Häll på sås och strö över ost.",
+        "Gratinera i mitten av ugnen 20-25 min.",
+        "Servera med sallad."
+    ],
+    "ingredients": [
+        {
+            "amount": "8",
+            "unit": "dl",
+            "name": "pasta"
+        },
+        {
+            "amount": "200",
+            "unit": "g",
+            "name": "kassler"
+        },
+        {
+            "amount": "300",
+            "unit": "g",
+            "name": "broccoli"
+        },
+        {
+            "amount": "1",
+            "unit": "dl",
+            "name": "valnötter"
+        },
+        {
+            "amount": "2,5",
+            "unit": "dl",
+            "name": "ädelost"
+        },
+        {
+            "amount": "1",
+            "unit": "dl",
+            "name": "ost, riven"
+        },
+        {
+            "amount": "1",
+            "unit": "påse",
+            "name": "sallad"
+        }
+    ],
+    "servings": {
+        "amount": "4",
+        "unit": "port"
+    },
+    "attributes": "Fläskkött, Huvudrätt, Lättlagat, Pasta"
+}

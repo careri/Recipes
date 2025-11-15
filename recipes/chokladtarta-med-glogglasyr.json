@@ -1,0 +1,81 @@
+{
+    "title": "Chokladtårta med Glögglasyr",
+    "steps": [
+        "Tårtan kan förberedas i god tid, den är hållbar i kylen. Man kan frysa in hela tårtan med glasyr eller frysa in bottnarna och glasera efter upptining.",
+        "Gör så här",
+        "1. Sätt ugnen på 175°. Smörj och bröa en form med löstagbar botten (24 cm).",
+        "2. Vispa ägg och socker pösigt.",
+        "3. Smält smöret och blanda det med kaffe och kakao.",
+        "4. Blanda ner den kalla smälta smörblandningen och mjölet blandat med bakpulver. Rör till jämn smet. Häll det i formen och grädda ca 40 minuter på nedersta falsen.",
+        "5. Blanda samman samtliga ingredienser till glasyren. Vispa den smidig med en elvisp.",
+        "6. När kakan är färdiggräddad och kall, lägg den på ett tårtfat. Bred glasyren på hela kakan. Garnera med fikon i klyftor och skivad kumquat.",
+        "http://www.alltommat.se/recept?recipeid=405"
+    ],
+    "ingredients": [
+        {
+            "amount": "4",
+            "unit": "st",
+            "name": "ägg"
+        },
+        {
+            "amount": "3",
+            "unit": "dl",
+            "name": "socker"
+        },
+        {
+            "amount": "125",
+            "unit": "g",
+            "name": "smör"
+        },
+        {
+            "amount": "1,5",
+            "unit": "dl",
+            "name": "kaffe"
+        },
+        {
+            "amount": "1",
+            "unit": "dl",
+            "name": "kakao"
+        },
+        {
+            "amount": "2",
+            "unit": "dl",
+            "name": "vetemjöl"
+        },
+        {
+            "amount": "2",
+            "unit": "tsk",
+            "name": "bakpulver"
+        },
+        {
+            "amount": "2,5",
+            "unit": "dl",
+            "name": "florsocker"
+        },
+        {
+            "amount": "75",
+            "unit": "g",
+            "name": "smör"
+        },
+        {
+            "amount": "1",
+            "unit": "st",
+            "name": "ägg"
+        },
+        {
+            "amount": "1",
+            "unit": "dl",
+            "name": "kakao"
+        },
+        {
+            "amount": "3",
+            "unit": "msk",
+            "name": "glögg"
+        }
+    ],
+    "servings": {
+        "amount": "4",
+        "unit": "port"
+    },
+    "attributes": "Övrigt, Efterrätt, Fest"
+}

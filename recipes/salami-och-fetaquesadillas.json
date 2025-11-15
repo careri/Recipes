@@ -1,0 +1,66 @@
+{
+    "title": "Salami och Fetaquesadillas",
+    "steps": [
+        "Lägg ut tortillasbröden på ett skärbräde. Bred ajvar relish på 4 av bröden. Täck med salami, lök, oliver och fetaost. Lägg på de andra bröden som lock.",
+        "Stek tortillasbröden i en torr stekpanna. Stek bröden på båda sidor. Klipp eller skär i snibbar.",
+        "Servera quesadillasen med sallad.",
+        "465 kcal/port"
+    ],
+    "ingredients": [
+        {
+            "amount": "8",
+            "unit": "st",
+            "name": "tortilla"
+        },
+        {
+            "amount": "2",
+            "unit": "dl",
+            "name": "ajvar relish"
+        },
+        {
+            "amount": "12",
+            "unit": "skivor",
+            "name": "salami"
+        },
+        {
+            "amount": "1",
+            "unit": "st",
+            "name": "lök, gul"
+        },
+        {
+            "amount": "12",
+            "unit": "st",
+            "name": "oliver, svarta"
+        },
+        {
+            "amount": "75",
+            "unit": "g",
+            "name": "fetaost"
+        },
+        {
+            "amount": "100",
+            "unit": "g",
+            "name": "isbergssallad"
+        },
+        {
+            "amount": "2",
+            "unit": "st",
+            "name": "tomat"
+        },
+        {
+            "amount": "2",
+            "unit": "dl",
+            "name": "majs"
+        },
+        {
+            "amount": "100",
+            "unit": "g",
+            "name": "champinjon"
+        }
+    ],
+    "servings": {
+        "amount": "4",
+        "unit": "port"
+    },
+    "attributes": "Korv, Huvudrätt, Lättlagat"
+}

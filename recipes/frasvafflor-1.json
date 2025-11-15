@@ -1,0 +1,81 @@
+{
+    "title": "Frasvåfflor",
+    "steps": [
+        "1. Rör samman vatten, mjöl och salt till en jämn smet. Vispa grädden hårt och vänd ihop med smeten.",
+        "2. Grädda med smör i ett våffeljärn på full effekt och lägg dem på ett galler.",
+        "3. Med sylt och grädde: Vispa upp grädde och lägg på våfflorna tillsammans med sylt.",
+        "4. Med löjrom: Hacka rödlök och gräslök, blanda och fyll i en skål. Hacka dillen grovt, skär citronen i klyftor och lägg i skålar. Skär våfflorna i hjärtan och servera ljumma med löjrom och tillbehör."
+    ],
+    "ingredients": [
+        {
+            "amount": "2,75",
+            "unit": "dl",
+            "name": "vatten"
+        },
+        {
+            "amount": "3,25",
+            "unit": "dl",
+            "name": "vetemjöl"
+        },
+        {
+            "amount": "1",
+            "unit": "nypa",
+            "name": "flingsalt"
+        },
+        {
+            "amount": "4",
+            "unit": "dl",
+            "name": "vispgrädde"
+        },
+        {
+            "amount": "Med",
+            "unit": "löjrom",
+            "name": ""
+        },
+        {
+            "amount": "1",
+            "unit": "burk",
+            "name": "löjrom"
+        },
+        {
+            "amount": "1",
+            "unit": "st",
+            "name": "citron"
+        },
+        {
+            "amount": "1",
+            "unit": "st",
+            "name": "rödlök"
+        },
+        {
+            "amount": "2",
+            "unit": "knippen",
+            "name": "dill"
+        },
+        {
+            "amount": "1",
+            "unit": "knippe",
+            "name": "gräslök"
+        },
+        {
+            "amount": "Med",
+            "unit": "sylt",
+            "name": "och grädde"
+        },
+        {
+            "amount": "2",
+            "unit": "dl",
+            "name": "vispgrädde"
+        },
+        {
+            "amount": "1",
+            "unit": "msk",
+            "name": "sylt"
+        }
+    ],
+    "servings": {
+        "amount": "4",
+        "unit": "port"
+    },
+    "attributes": "Övrigt, Smårätter, Lättlagat, Fest"
+}

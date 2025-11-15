@@ -1,0 +1,53 @@
+{
+    "title": "Spenatsoppa med Ägg och Prinskorv",
+    "steps": [
+        "Koka äggen hårt och kyl av dem.",
+        "Lägg den frysta spenaten i en kastrull och tina den sakta med lite grädde.",
+        "När spenaten tinat, tillsätt mer grädde (så mycket som behövs) samt kryddor.",
+        "Låt det koka upp.",
+        "Lägg i prinskorven och låt den bli varm.",
+        "Servera med ägghalvor."
+    ],
+    "ingredients": [
+        {
+            "amount": "450",
+            "unit": "g",
+            "name": "spenat, hackad"
+        },
+        {
+            "amount": "4",
+            "unit": "dl",
+            "name": "grädde, matlagning"
+        },
+        {
+            "amount": "20",
+            "unit": "st",
+            "name": "prinskorv"
+        },
+        {
+            "amount": "4",
+            "unit": "st",
+            "name": "ägg"
+        },
+        {
+            "amount": "1",
+            "unit": "nypa",
+            "name": "muskotnöt"
+        },
+        {
+            "amount": "1",
+            "unit": "nypa",
+            "name": "salt"
+        },
+        {
+            "amount": "1",
+            "unit": "nypa",
+            "name": "körvel"
+        }
+    ],
+    "servings": {
+        "amount": "4",
+        "unit": "port"
+    },
+    "attributes": "Grönsaker, Huvudrätt, Lättlagat"
+}

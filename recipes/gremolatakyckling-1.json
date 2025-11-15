@@ -1,0 +1,74 @@
+{
+    "title": "Gremolatakyckling",
+    "steps": [
+        "1. Börja med gremolatan: Tvätta citronen, skala av skalet med en potatisskalare (se till att så lite som möjligt av det vita från skalet kommer med, eftersom det kan ge en besk smak).",
+        "2. Finhacka citronskal, vitlök och persilja. Blanda detta med olivolja och citronsaft. Ställ åt sidan.",
+        "3. Skala lök, skär den i grova bitar. Skär även majs sockerärtor och cocktailtomater i grova bitar.",
+        "4. Koka pastan enligt förpackning.",
+        "5. Skär upp kycklingfiléerna i grova bitar och stek i olivolja. Stek även lök och majs hastigt i samma stekpanna.",
+        "6. När pastan är klar, blanda med kyckling, majs, lök och gremolatan. Precis vid servering vänd även ned tomater och sockerärter och smaka av med salt och peppar.",
+        "Från viktklubb.se"
+    ],
+    "ingredients": [
+        {
+            "amount": "4",
+            "unit": "st",
+            "name": "kycklingfile"
+        },
+        {
+            "amount": "230",
+            "unit": "g",
+            "name": "minimajs"
+        },
+        {
+            "amount": "10",
+            "unit": "st",
+            "name": "cocktailtomater"
+        },
+        {
+            "amount": "1",
+            "unit": "st",
+            "name": "lök, röd"
+        },
+        {
+            "amount": "200",
+            "unit": "g",
+            "name": "sockerärtor"
+        },
+        {
+            "amount": "4",
+            "unit": "st",
+            "name": "pasta"
+        },
+        {
+            "amount": "1",
+            "unit": "msk",
+            "name": "margarin, flytande"
+        },
+        {
+            "amount": "3",
+            "unit": "msk",
+            "name": "persilja"
+        },
+        {
+            "amount": "3",
+            "unit": "klyftor",
+            "name": "vitlök"
+        },
+        {
+            "amount": "1",
+            "unit": "st",
+            "name": "citron"
+        },
+        {
+            "amount": "1",
+            "unit": "msk",
+            "name": "olivolja"
+        }
+    ],
+    "servings": {
+        "amount": "4",
+        "unit": "port"
+    },
+    "attributes": "Kyckling, Huvudrätt, Lättlagat, Pasta"
+}

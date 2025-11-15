@@ -1,0 +1,65 @@
+{
+    "title": "Dinkelugnspannkaka med Keso & Lingonsylt",
+    "steps": [
+        "Sätt ugnen på 225 grader.",
+        "Vispa ihop 4 dl dinkelmjöl och 4 dl  mjölk till en slät smet. Tillsätt ytterligare 4 dl mjölk, ½ tsk salt och vispa ner 3 ägg. Låt stå en stund.",
+        "Smörj en långpanna.",
+        "Klipp eller skär 2 pkt bacon i strimlor och fördela över långpannan.",
+        "Finriv moroten.",
+        "Rör ner den rivna moroten i pannkakssmeten och häll sedan över i långpannan. Grädda mitt i ugnen ca 25 min, eller tills pannkakan är genomgräddad.",
+        "Servera ugnspannkakan med rivna morötter, 250 g keso och lingonsylt.",
+        "Från"
+    ],
+    "ingredients": [
+        {
+            "amount": "4",
+            "unit": "dl",
+            "name": "dinkelmjöl"
+        },
+        {
+            "amount": "8",
+            "unit": "dl",
+            "name": "mjölk"
+        },
+        {
+            "amount": "1/2",
+            "unit": "tsk",
+            "name": "salt"
+        },
+        {
+            "amount": "3",
+            "unit": "st",
+            "name": "ägg"
+        },
+        {
+            "amount": "2",
+            "unit": "pkt",
+            "name": "bacon"
+        },
+        {
+            "amount": "1",
+            "unit": "st",
+            "name": "morötter"
+        },
+        {
+            "amount": "1",
+            "unit": "g",
+            "name": "keso"
+        },
+        {
+            "amount": "250",
+            "unit": "g",
+            "name": "keso"
+        },
+        {
+            "amount": "4",
+            "unit": "msk",
+            "name": "sylt, lingon"
+        }
+    ],
+    "servings": {
+        "amount": "4",
+        "unit": "port"
+    },
+    "attributes": "Fläskkött, Huvudrätt, Budget, Lättlagat"
+}

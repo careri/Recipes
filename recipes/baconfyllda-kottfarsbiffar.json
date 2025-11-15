@@ -1,0 +1,88 @@
+{
+    "title": "Baconfyllda Köttfärsbiffar",
+    "steps": [
+        "Tillaga potatis på valfritt sätt.",
+        "1. Knaperstek det tärnade baconet. Låt fettet rinna av på en bit hushållspapper. Sätt ugnen på 200 grader. Låt ströbrödet svälla i mjölken. Arbeta samman ströbrödsblandningen med köttfärsen, baconet, hackad löken, ägget, salt och peppar.",
+        "2. Forma fyra stora biffar. Bryn dem på båda sidor i en stekpanna och efterstek dem i ugnen i en ugnsform i ca 10 minuter.",
+        "3. Bryn undertiden den tärnade potatisen i en stekpanna med lite margarin eller olja. Salta och peppra.",
+        "4. Bryn champinjonerna i smör. Strimla och blanda i rödlöken och häll på grädde och senap, salta och peppra. Koka ihop i ca 1 minut.",
+        "5. Servera baconbiffarna tillsammans med råstekt potatis och den krämiga champinjonröran"
+    ],
+    "ingredients": [
+        {
+            "amount": "1",
+            "unit": "pkt",
+            "name": "bacon"
+        },
+        {
+            "amount": "400",
+            "unit": "g",
+            "name": "blandfärs"
+        },
+        {
+            "amount": "1",
+            "unit": "st",
+            "name": "lök, gul"
+        },
+        {
+            "amount": "1",
+            "unit": "dl",
+            "name": "ströbröd"
+        },
+        {
+            "amount": "1",
+            "unit": "dl",
+            "name": "mjölk, standard"
+        },
+        {
+            "amount": "1",
+            "unit": "st",
+            "name": "ägg"
+        },
+        {
+            "amount": "1",
+            "unit": "tsk",
+            "name": "salt"
+        },
+        {
+            "amount": "1/2",
+            "unit": "tsk",
+            "name": "svartpeppar"
+        },
+        {
+            "amount": "250",
+            "unit": "g",
+            "name": "champinjon"
+        },
+        {
+            "amount": "1",
+            "unit": "st",
+            "name": "lök, röd"
+        },
+        {
+            "amount": "1",
+            "unit": "msk",
+            "name": "smör"
+        },
+        {
+            "amount": "2",
+            "unit": "dl",
+            "name": "vispgrädde"
+        },
+        {
+            "amount": "1",
+            "unit": "msk",
+            "name": "dijonsenap"
+        },
+        {
+            "amount": "1",
+            "unit": "st",
+            "name": "potatis"
+        }
+    ],
+    "servings": {
+        "amount": "4",
+        "unit": "port"
+    },
+    "attributes": "Köttfärs, Huvudrätt, Lättlagat"
+}

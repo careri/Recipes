@@ -1,0 +1,40 @@
+{
+    "title": "Rabarberkompott",
+    "steps": [
+        "Ansa och skär rabarbern i bitar. Skala och skiva bananen.",
+        "Blanda rabarber och socker i en kastrull. Smält försiktigt under omrörning, 3-5 min. Tillsätt banan och kardemumma. Serveras ljummen med vanlijyoghurt.",
+        "kcal: ca 189kcal"
+    ],
+    "ingredients": [
+        {
+            "amount": "200",
+            "unit": "g",
+            "name": "rabarber"
+        },
+        {
+            "amount": "100",
+            "unit": "g",
+            "name": "banan"
+        },
+        {
+            "amount": "3",
+            "unit": "msk",
+            "name": "strösocker"
+        },
+        {
+            "amount": "1",
+            "unit": "krm",
+            "name": "kardemumma"
+        },
+        {
+            "amount": "2",
+            "unit": "msk",
+            "name": "yoghurt"
+        }
+    ],
+    "servings": {
+        "amount": "4",
+        "unit": "port"
+    },
+    "attributes": "Frukt & Bär, Efterrätt, Budget, Lättlagat, Vegetariska, Fest"
+}

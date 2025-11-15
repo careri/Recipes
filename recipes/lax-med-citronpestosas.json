@@ -1,0 +1,58 @@
+{
+    "title": "Lax med Citronpestosås",
+    "steps": [
+        "Skala och koka potatisen.",
+        "Sätt ugnen på 225 grader.",
+        "Lägg laxfiléerna i en ugnsfast form och riv osten.",
+        "Blanda hälften av osten, finhackad basilika, olivolja och saft och skal av citronen i crème fraichen och klicka över och runt laxen.",
+        "Strö över resten av osten och ställ in i ugnen ca 25 min eller tills allt fått en fin färg.",
+        "Servera med potatis och rårivna morötter."
+    ],
+    "ingredients": [
+        {
+            "amount": "1",
+            "unit": "kg",
+            "name": "potatis"
+        },
+        {
+            "amount": "600",
+            "unit": "g",
+            "name": "lax"
+        },
+        {
+            "amount": "2",
+            "unit": "dl",
+            "name": "creme fraiche"
+        },
+        {
+            "amount": "1",
+            "unit": "kruka",
+            "name": "basilika"
+        },
+        {
+            "amount": "3",
+            "unit": "msk",
+            "name": "olivolja"
+        },
+        {
+            "amount": "1/2",
+            "unit": "st",
+            "name": "citron"
+        },
+        {
+            "amount": "125",
+            "unit": "g",
+            "name": "ost"
+        },
+        {
+            "amount": "3",
+            "unit": "st",
+            "name": "morötter"
+        }
+    ],
+    "servings": {
+        "amount": "4",
+        "unit": "port"
+    },
+    "attributes": "Fisk, Huvudrätt, Lättlagat"
+}
