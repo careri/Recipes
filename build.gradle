@@ -5,19 +5,19 @@ plugins {
 task setup(type: Exec) {
     group = 'setup'
     description = 'Set up development environment'
-    commandLine './setup.sh'
+    commandLine './scripts/setup.sh'
 }
 
 task runLocal(type: Exec) {
     group = 'application'
     description = 'Start local development server with GCP simulator'
-    commandLine './run-local.sh'
+    commandLine './scripts/run-local.sh'
 }
 
 task stopLocal(type: Exec) {
     group = 'application'
     description = 'Stop local development server and GCP simulator'
-    commandLine './stop-local.sh'
+    commandLine './scripts/stop-local.sh'
 }
 
 task deployGae(type: Exec) {
@@ -29,7 +29,7 @@ task deployGae(type: Exec) {
 task migrateRecipes(type: Exec) {
     group = 'deployment'
     description = 'Migrate existing recipes to Google Cloud Storage'
-    commandLine './migrate-recipes.sh'
+    commandLine './scripts/migrate-recipes.sh'
 }
 
 task cleanGae(type: Exec) {

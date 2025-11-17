@@ -44,4 +44,4 @@ pip install -r requirements.txt
 echo "✅ Setup complete!"
 echo ""
 echo "To start the development server, run:"
-echo "  ./run-local.sh"
+echo "  ../scripts/run-local.sh"

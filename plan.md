@@ -140,9 +140,9 @@ gradle stopLocal
 Or use the shell scripts directly:
 
 ```bash
-./setup.sh
-./run-local.sh
-./stop-local.sh
+./scripts/setup.sh
+./scripts/run-local.sh
+./scripts/stop-local.sh
 ```
 
 Both approaches provide the same functionality. Gradle tasks are recommended for consistency with the build system.
