@@ -113,7 +113,11 @@ def get_recipe(recipe_id):
 
             content = blob.download_as_text()
             recipe = json.loads(content)
-            recipe['version'] = blob.updated.isoformat()
+            # Handle case where blob.updated might be None (e.g., in emulator)
+            if blob.updated:
+                recipe['version'] = blob.updated.isoformat()
+            else:
+                recipe['version'] = datetime.now().isoformat()
             return jsonify(recipe)
         except Exception as e:
             return jsonify({'error': str(e)}), 500
