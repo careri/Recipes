@@ -5,7 +5,7 @@ import os
 from datetime import datetime
 from google.cloud import storage
 
-app = Flask(__name__)
+app = Flask(__name__, static_folder='www')
 
 # Configuration
 BUCKET_NAME = os.environ.get('BUCKET_NAME', 'recipes-storage-bucket')
@@ -201,7 +201,12 @@ def get_config():
 @app.route('/')
 def index():
     """Serve the frontend"""
-    return app.send_static_file('www/index.html')
+    return app.send_static_file('index.html')
+
+@app.route('/<path:path>')
+def static_files(path):
+    """Serve static files"""
+    return app.send_static_file(path)
 
 if __name__ == '__main__':
     app.run(host='127.0.0.1', port=8080, debug=True)
