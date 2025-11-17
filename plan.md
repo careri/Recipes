@@ -105,7 +105,7 @@ A quick way of adding recipes
 
 * **Frontend**: HTML, CSS, JavaScript, Material Design Web
 * **Backend**: Google App Engine (Python Flask), Google Cloud Storage
-* **Local Development**: Google Cloud SDK, Python virtual environment, Flask dev server, Google Cloud Storage emulator
+* **Local Development**: Google Cloud SDK, Python virtual environment, Flask dev server, fake-gcs-server (Docker-based GCP Cloud Storage emulator)
 * **Authentication**: Google Identity Platform (planned)
 * **Deployment**: Google App Engine, Google Cloud Storage
 * **Domain**: Google Domains (carlkatrin.com)
@@ -129,16 +129,18 @@ To run the application locally:
 # Set up development environment (one-time)
 ./setup.sh
 
-# Start development server with Cloud Storage emulator
+# Start development server with GCP simulator
 ./run-local.sh
+
+# Stop all services
+./stop-local.sh
 ```
 
 The `./run-local.sh` script will:
-- Check for Google Cloud SDK
-- Set up Python virtual environment (if needed)
-- Install dependencies (if needed)
-- Start Cloud Storage emulator
-- Start Flask development server
+- Check for Google Cloud SDK and Docker
+- Start fake-gcs-server (GCP Cloud Storage simulator) in Docker
+- Start Flask development server in background
+- Services run independently and can be stopped with `./stop-local.sh`
 
 Access the app at:
 - Frontend: http://localhost:8080
@@ -162,7 +164,7 @@ Configure DNS in Google Domains:
 - www.carlkatrin.com → CNAME ghs.googlehosted.com
 - api.carlkatrin.com → CNAME ghs.googlehosted.com
 
-**Current Status**: ✅ Application is fully functional locally with 100+ recipes loaded, search functionality implemented, all CRUD operations working, versioning/caching system tested and operational, Google Cloud Storage emulator configured for local development, authentication system implemented, and production deployment configuration ready.
+**Current Status**: ✅ Application is fully functional locally with 100+ recipes loaded, search functionality implemented, all CRUD operations working, versioning/caching system tested and operational, Google Cloud Storage emulator (fake-gcs-server) configured for local development with Docker, authentication system implemented, and production deployment configuration ready.
 
 ## Next Steps
 

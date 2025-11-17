@@ -39,11 +39,15 @@ export GOOGLE_CLOUD_PROJECT=carlkatrin-com
 export STORAGE_EMULATOR_HOST=http://localhost:9023
 
 # Start Google Cloud Storage emulator in background
-echo "🗄️  Starting Google Cloud Storage emulator (fake-gcs-server)..."
+echo "🗄️  Starting Google Cloud Storage emulator..."
 
 # Check if Docker is running
 if docker info >/dev/null 2>&1; then
     echo "🐳 Docker is available, starting fake-gcs-server..."
+    # Clean up any existing container
+    docker stop fake-gcs-server 2>/dev/null || true
+    docker rm fake-gcs-server 2>/dev/null || true
+
     # Use fake-gcs-server as the Cloud Storage emulator
     docker run -d --name fake-gcs-server \
       -p 9023:9023 \
@@ -52,92 +56,47 @@ if docker info >/dev/null 2>&1; then
       -scheme http \
       -host 0.0.0.0 \
       -port 9023 \
-      -data /data &
-    EMULATOR_PID=$!
-    USE_DOCKER=true
-else
-    echo "🐳 Docker not available, falling back to local file storage"
-    echo "💡 To use GCP simulator, start Docker Desktop and restart this script"
-    USE_DOCKER=false
-    # Set a dummy PID for cleanup
-    EMULATOR_PID=""
-fi
+      -data /data
+    sleep 3
 
-# Wait for emulator to start (only if using Docker)
-if [ "$USE_DOCKER" = true ]; then
-    echo "⏳ Waiting for emulator to start..."
-    sleep 5
-else
-    # Skip waiting if not using Docker
-    echo "⏳ Skipping emulator wait (using local storage)..."
-fi
-
-# Wait for emulator to start (longer wait time)
-echo "⏳ Waiting for emulator to start..."
-sleep 5
-
-# Check if emulator is responding (only if using Docker)
-if [ "$USE_DOCKER" = true ]; then
+    # Check if emulator is responding
     echo "🔍 Checking emulator status..."
-    MAX_RETRIES=10
-    RETRY_COUNT=0
-    while [ $RETRY_COUNT -lt $MAX_RETRIES ]; do
-        if curl -s "http://localhost:9023/storage/v1/b" >/dev/null 2>&1; then
-            echo "✅ Emulator is ready!"
-            break
-        fi
-        echo "⏳ Still waiting for emulator... ($((RETRY_COUNT + 1))/$MAX_RETRIES)"
-        sleep 2
-        RETRY_COUNT=$((RETRY_COUNT + 1))
-    done
+    if curl -s "http://localhost:9023/storage/v1/b" >/dev/null 2>&1; then
+        echo "✅ Emulator is ready!"
 
-    if [ $RETRY_COUNT -eq $MAX_RETRIES ]; then
-        echo "❌ Emulator failed to start after $MAX_RETRIES attempts"
-        echo "🛑 Stopping emulator..."
-        kill $EMULATOR_PID 2>/dev/null || true
+        # Create bucket in emulator
+        echo "📦 Creating bucket in emulator..."
+        curl -X POST "http://localhost:9023/storage/v1/b/${BUCKET_NAME}?project=${GOOGLE_CLOUD_PROJECT}" 2>/dev/null || echo "⚠️  Bucket creation failed or already exists"
+    else
+        echo "❌ Emulator failed to start"
         docker stop fake-gcs-server 2>/dev/null || true
         docker rm fake-gcs-server 2>/dev/null || true
         exit 1
     fi
 else
-    echo "🔍 Skipping emulator check (using local storage)..."
-fi
-
-# Create bucket in emulator (only if using Docker)
-if [ "$USE_DOCKER" = true ]; then
-    echo "📦 Creating bucket in emulator..."
-    if curl -X POST "http://localhost:9023/storage/v1/b/${BUCKET_NAME}?project=${GOOGLE_CLOUD_PROJECT}" 2>/dev/null; then
-        echo "✅ Bucket created successfully"
-    else
-        echo "⚠️  Bucket creation failed or already exists"
-    fi
-else
-    echo "📦 Skipping bucket creation (using local storage)..."
+    echo "� Docker not available, using local file storage"
+    echo "� To use GCP simulator, start Docker Desktop and restart this script"
 fi
 
 # Start local development server
 echo "🚀 Starting Flask development server..."
 echo "🌐 Frontend: http://localhost:8080"
 echo "🔗 API: http://localhost:8080/api/recipes"
-echo "🗄️  Storage Emulator: http://localhost:9023"
+if docker info >/dev/null 2>&1; then
+    echo "🗄️  Storage Emulator: http://localhost:9023"
+fi
 echo ""
-echo "Press Ctrl+C to stop"
-python main.py &
+echo "Services are running in background. To stop them, run:"
+echo "  ./stop-local.sh"
+echo ""
+echo "Or press Ctrl+C to stop Flask (emulator will keep running)"
+
+# Start Flask with nohup so it keeps running after script exits
+nohup python main.py > flask.log 2>&1 &
 FLASK_PID=$!
 
-# Cleanup function
-cleanup() {
-    echo "🛑 Stopping services..."
-    if [ "$USE_DOCKER" = true ]; then
-        docker stop fake-gcs-server 2>/dev/null || true
-        docker rm fake-gcs-server 2>/dev/null || true
-    fi
-    kill $EMULATOR_PID $FLASK_PID 2>/dev/null || true
-    exit 0
-}
+echo "✅ Flask started with PID: $FLASK_PID"
+echo "📝 Logs available in: recipes-app/flask.log"
 
-# Set trap to cleanup on exit
-trap cleanup INT TERM
-
-# Wait for processes
-wait
+# Wait a moment then exit (services keep running)
+sleep 2
