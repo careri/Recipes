@@ -105,6 +105,7 @@ A quick way of adding recipes
 
 * **Frontend**: HTML, CSS, JavaScript, Material Design Web
 * **Backend**: Google App Engine (Python Flask), Google Cloud Storage
+* **Build Tool**: Gradle (development tasks and deployment)
 * **Local Development**: Google Cloud SDK, Python virtual environment, Flask dev server, fake-gcs-server (Docker-based GCP Cloud Storage emulator)
 * **Authentication**: Google Identity Platform (planned)
 * **Deployment**: Google App Engine, Google Cloud Storage
@@ -127,20 +128,24 @@ To run the application locally:
 
 ```bash
 # Set up development environment (one-time)
-./setup.sh
+gradle setup
 
 # Start development server with GCP simulator
-./run-local.sh
+gradle runLocal
 
 # Stop all services
+gradle stopLocal
+```
+
+Or use the shell scripts directly:
+
+```bash
+./setup.sh
+./run-local.sh
 ./stop-local.sh
 ```
 
-The `./run-local.sh` script will:
-- Check for Google Cloud SDK and Docker
-- Start fake-gcs-server (GCP Cloud Storage simulator) in Docker
-- Start Flask development server in background
-- Services run independently and can be stopped with `./stop-local.sh`
+Both approaches provide the same functionality. Gradle tasks are recommended for consistency with the build system.
 
 Access the app at:
 - Frontend: http://localhost:8080
