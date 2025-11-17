@@ -7,6 +7,31 @@ task setupGae(type: Exec) {
     description = 'Set up Python virtual environment and install dependencies for Google App Engine'
     workingDir 'recipes-app'
     commandLine 'sh', '-c', '''
+        # Check if Google Cloud SDK is installed
+        if ! command -v gcloud &> /dev/null; then
+            echo "❌ Google Cloud SDK not found!"
+            echo "Please install Google Cloud SDK first:"
+            echo "  curl https://sdk.cloud.google.com | bash"
+            echo "  exec -l $SHELL"
+            echo "  gcloud init"
+            exit 1
+        fi
+        
+        if [ ! -d "venv" ]; then
+            echo "Creating Python virtual environment..."
+            python3 -m venv venv
+        fi
+        echo "Activating virtual environment and installing dependencies..."
+        source venv/bin/activate && pip install -r requirements.txt
+        echo "Setup complete!"
+    '''
+}
+
+task setupGae(type: Exec) {
+    group = 'setup'
+    description = 'Set up Python virtual environment and install dependencies for Google App Engine'
+    workingDir 'recipes-app'
+    commandLine 'sh', '-c', '''
         if [ ! -d "venv" ]; then
             echo "Creating Python virtual environment..."
             python3 -m venv venv
@@ -20,16 +45,29 @@ task setupGae(type: Exec) {
 task runLocal(type: Exec) {
     dependsOn setupGae
     group = 'application'
-    description = 'Run local Google App Engine development server'
+    description = 'Run local Google App Engine development server with Cloud Storage emulator'
     workingDir 'recipes-app'
     commandLine 'sh', '-c', '''
         source venv/bin/activate
         export BUCKET_NAME=recipes-storage-bucket
         export GOOGLE_CLOUD_PROJECT=carlkatrin-com
+        export STORAGE_EMULATOR_HOST=http://localhost:9023
+        echo "Starting Google Cloud Storage emulator..."
+        gcloud beta emulators storage start --host-port=localhost:9023 &
+        EMULATOR_PID=$!
+        echo "Waiting for emulator to start..."
+        sleep 3
+        echo "Creating bucket in emulator..."
+        curl -X POST "http://localhost:9023/storage/v1/b/${BUCKET_NAME}?project=${GOOGLE_CLOUD_PROJECT}" || echo "Bucket may already exist"
         echo "Starting Flask development server..."
         echo "Frontend: http://localhost:8080"
         echo "API: http://localhost:8080/api/recipes"
-        python main.py
+        echo "Storage Emulator: http://localhost:9023"
+        python main.py &
+        FLASK_PID=$!
+        echo "Press Ctrl+C to stop all services"
+        trap "kill $EMULATOR_PID $FLASK_PID 2>/dev/null || true" INT TERM
+        wait
     '''
 }
 

@@ -72,6 +72,7 @@ A quick way of adding recipes
 - ✅ Google Cloud SDK for deployment and management
 - ✅ Python virtual environment for local development
 - ✅ Flask development server for local testing
+- ✅ Google Cloud Storage emulator (fake-gcs-server via Docker) for local development
 - ✅ Google Cloud Storage bucket for recipe storage
 
 ### Infrastructure
@@ -104,29 +105,46 @@ A quick way of adding recipes
 
 * **Frontend**: HTML, CSS, JavaScript, Material Design Web
 * **Backend**: Google App Engine (Python Flask), Google Cloud Storage
+* **Local Development**: Google Cloud SDK, Python virtual environment, Flask dev server, Google Cloud Storage emulator
 * **Authentication**: Google Identity Platform (planned)
-* **Local Development**: Google Cloud SDK, Local Flask server
 * **Deployment**: Google App Engine, Google Cloud Storage
 * **Domain**: Google Domains (carlkatrin.com)
 
 ## Local Development
 
+### Prerequisites
+- Google Cloud SDK (for Cloud Storage emulator)
+  ```bash
+  # Install Google Cloud SDK
+  curl https://sdk.cloud.google.com | bash
+  exec -l $SHELL
+  
+  # Initialize (choose your project or create a new one)
+  gcloud init
+  ```
+
 To run the application locally:
 
 ```bash
 # Set up development environment (one-time)
-gradle setupGae
+./setup.sh
 
-# Start local development server
-gradle runLocal
-
-# Or run everything at once
+# Start development server with Cloud Storage emulator
 ./run-local.sh
 ```
+
+The `./run-local.sh` script will:
+- Check for Google Cloud SDK
+- Set up Python virtual environment (if needed)
+- Install dependencies (if needed)
+- Start Cloud Storage emulator
+- Start Flask development server
 
 Access the app at:
 - Frontend: http://localhost:8080
 - API: http://localhost:8080/api/recipes
+- Storage Emulator: http://localhost:9023
+- Storage Emulator: http://localhost:9023
 
 ## Production Deployment
 
@@ -144,7 +162,7 @@ Configure DNS in Google Domains:
 - www.carlkatrin.com → CNAME ghs.googlehosted.com
 - api.carlkatrin.com → CNAME ghs.googlehosted.com
 
-**Current Status**: ✅ Application is fully functional locally with 100+ recipes loaded, search functionality implemented, all CRUD operations working, versioning/caching system tested and operational, authentication system implemented, and production deployment configuration ready.
+**Current Status**: ✅ Application is fully functional locally with 100+ recipes loaded, search functionality implemented, all CRUD operations working, versioning/caching system tested and operational, Google Cloud Storage emulator configured for local development, authentication system implemented, and production deployment configuration ready.
 
 ## Next Steps
 

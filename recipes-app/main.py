@@ -22,10 +22,21 @@ try:
     bucket.reload()
     print("Using Google Cloud Storage")
 except Exception as e:
-    print(f"Google Cloud Storage not available ({e}), using local storage")
-    USE_LOCAL_STORAGE = True
-    # Create local storage directory
-    os.makedirs(LOCAL_STORAGE_DIR, exist_ok=True)
+    # Check if we're using the storage emulator
+    if os.environ.get('STORAGE_EMULATOR_HOST'):
+        print("Using Google Cloud Storage emulator")
+        storage_client = storage.Client()
+        bucket = storage_client.bucket(BUCKET_NAME)
+        # Create bucket if it doesn't exist in emulator
+        try:
+            bucket.reload()
+        except Exception:
+            bucket.create()
+    else:
+        print(f"Google Cloud Storage not available ({e}), using local storage")
+        USE_LOCAL_STORAGE = True
+        # Create local storage directory
+        os.makedirs(LOCAL_STORAGE_DIR, exist_ok=True)
 
 def get_recipes_list():
     """Get list of all recipe files with metadata"""
