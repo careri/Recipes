@@ -4,6 +4,9 @@
 let selectedKeywords = [];
 let commonKeywords = [];
 
+// Cache key for recipes
+const CACHE_KEY = 'recipes_cache';
+
 // Authentication functions
 let authToken = null;
 
@@ -61,10 +64,6 @@ function setCachedRecipes(recipes) {
     } catch (error) {
         console.error('Error writing cache:', error);
     }
-}
-
-function clearRecipesCache() {
-    localStorage.removeItem(CACHE_KEY);
 }
 
 function clearRecipesCache() {
