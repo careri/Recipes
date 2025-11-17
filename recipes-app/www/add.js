@@ -1,4 +1,7 @@
-        const API_BASE = 'http://localhost:3001';
+// API configuration - use localhost for development
+const API_BASE = window.location.hostname === 'localhost' || window.location.hostname === '127.0.0.1'
+    ? 'http://localhost:8080/api'
+    : '/api';
 
 let allIngredients = [];
 

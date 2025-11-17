@@ -1,4 +1,7 @@
-        const API_BASE = 'https://api.carlkatrin.com/api';
+// API configuration - use localhost for development
+const API_BASE = window.location.hostname === 'localhost' || window.location.hostname === '127.0.0.1'
+    ? 'http://localhost:8080/api'
+    : '/api';
 
 let recipes = [];
 let sortedRecipes = []; // Cache sorted recipes
@@ -207,6 +210,30 @@ function showAuthSection() {
     document.getElementById('auth-section').style.display = 'block';
     document.getElementById('user-info').style.display = 'none';
     document.querySelector('main').style.display = 'none';
+
+    // Add development login option when running locally
+    if (window.location.hostname === 'localhost' || window.location.hostname === '127.0.0.1') {
+        const devLoginDiv = document.getElementById('dev-login');
+        if (!devLoginDiv) {
+            const authSection = document.getElementById('auth-section');
+            const devDiv = document.createElement('div');
+            devDiv.id = 'dev-login';
+            devDiv.innerHTML = `
+                <div style="margin: 20px 0; padding: 16px; border: 1px solid #ccc; border-radius: 8px; background: #f9f9f9;">
+                    <h3 style="margin: 0 0 12px 0; color: #666;">Development Mode</h3>
+                    <p style="margin: 0 0 12px 0; font-size: 14px; color: #666;">
+                        Running locally - OAuth not available. Use development login:
+                    </p>
+                    <button id="dev-login-btn" class="mdc-button mdc-button--raised" style="background: #4CAF50;">
+                        <span class="mdc-button__label">Login as Developer</span>
+                    </button>
+                </div>
+            `;
+            authSection.appendChild(devDiv);
+
+            document.getElementById('dev-login-btn').addEventListener('click', devLogin);
+        }
+    }
 }
 
 function hideAuthSection() {
@@ -228,7 +255,21 @@ function showUserInfo() {
     }
 }
 
-function hideUserInfo() {
-    document.getElementById('user-info').style.display = 'none';
-    document.querySelector('main').style.display = 'none';
+function devLogin() {
+    // Create a mock JWT token for development
+    const header = btoa(JSON.stringify({ alg: 'HS256', typ: 'JWT' }));
+    const payload = btoa(JSON.stringify({
+        email: 'developer@localhost',
+        name: 'Local Developer',
+        sub: 'dev-user-123',
+        iat: Math.floor(Date.now() / 1000),
+        exp: Math.floor(Date.now() / 1000) + (24 * 60 * 60) // 24 hours
+    }));
+    const signature = btoa('dev-signature'); // Mock signature
+    const mockToken = `${header}.${payload}.${signature}`;
+
+    setAuthToken(mockToken);
+    hideAuthSection();
+    showUserInfo();
+    loadRecipes();
 }
